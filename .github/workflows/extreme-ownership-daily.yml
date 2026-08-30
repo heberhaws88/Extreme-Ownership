@@ -1,1 +1,70 @@
+# Lives at .github/workflows/extreme-ownership-daily.yml in your new repo
+# (GitHub only reads workflow files from that exact path).
+#
+# Weekdays-only schedule. GitHub Actions cron is UTC and does not observe
+# daylight saving time, so this fires at a fixed UTC instant year-round —
+# expect the local clock time to shift by an hour across DST changes twice
+# a year unless you adjust the cron line then. Default here: 12:00 UTC,
+# which is 6:00 AM Mountain Daylight Time / 5:00 AM Mountain Standard Time.
 
+name: Extreme Ownership Daily Episode
+
+on:
+  schedule:
+    - cron: "0 12 * * 1-5"  # Mon-Fri, 12:00 UTC
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "Run in dry-run mode (no API calls, no cost)"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: extreme-ownership-daily
+  cancel-in-progress: false
+
+jobs:
+  generate-episode:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install ffmpeg (required by pydub for mp3 handling)
+        run: sudo apt-get update && sudo apt-get install -y ffmpeg
+
+      - name: Install Python dependencies
+        run: pip install -r requirements.txt
+
+      - name: Generate today's episode
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: |
+          if [ "${{ inputs.dry_run }}" = "true" ]; then
+            python scripts/generate_episode.py --dry-run
+          else
+            python scripts/generate_episode.py
+          fi
+
+      - name: Commit and push new episode
+        run: |
+          git config user.name "extreme-ownership-daily-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add episodes feed data/state.json data/episodes_manifest.json
+          if git diff --cached --quiet; then
+            echo "Nothing new to commit."
+          else
+            git commit -m "Extreme Ownership Daily: publish episode $(date -u +%Y-%m-%d)"
+            git push
+          fi
