@@ -6,7 +6,7 @@
     <atom:link href="https://heberhaws88.github.io/Extreme Ownership/feed/feed.xml" rel="self" type="application/rss+xml" />
     <description>A short daily study working through the 12 principles of Extreme Ownership by Jocko Willink and Leif Babin. Each pass through the book applies the principles through a different lens: as a disciple of Jesus Christ, as a Warrant Officer and engineer in the Army National Guard, as an electrical contractor running his own business, and as a husband and father. New episodes weekdays.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 30 Aug 2026 21:04:47 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 21:21:47 +0000</lastBuildDate>
     <itunes:author>Heber Haws</itunes:author>
     <itunes:summary>A short daily study working through the 12 principles of Extreme Ownership by Jocko Willink and Leif Babin. Each pass through the book applies the principles through a different lens: as a disciple of Jesus Christ, as a Warrant Officer and engineer in the Army National Guard, as an electrical contractor running his own business, and as a husband and father. New episodes weekdays.</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -23,6 +23,15 @@
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity" />
     </itunes:category>
+    <item>
+      <title>Ep. 0002 — No Bad Teams, Only Bad Leaders (through the Disciple of Jesus Christ)</title>
+      <description>A team's performance is a direct reflection of its leader's standards, attitude, and example — a struggling team is a leadership problem before it's a personnel problem. Tonight's lens: Disciple of Jesus Christ.</description>
+      <guid isPermaLink="false">https://heberhaws88.github.io/Extreme Ownership/episodes/0002-disciple-no-bad-teams-only-bad-leaders</guid>
+      <pubDate>Sun, 30 Aug 2026 21:21:47 +0000</pubDate>
+      <enclosure url="https://heberhaws88.github.io/Extreme Ownership/episodes/0002-disciple-no-bad-teams-only-bad-leaders.mp3" length="3498285" type="audio/mpeg" />
+      <itunes:duration>14:34</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Ep. 0001 — Extreme Ownership (through the Disciple of Jesus Christ)</title>
       <description>The leader owns everything in their world — every outcome, every failure, every gap — with zero excuses and zero blame passed down or sideways. Tonight's lens: Disciple of Jesus Christ.</description>
