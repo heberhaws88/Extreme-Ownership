@@ -1,0 +1,122 @@
+[
+  {
+    "index": 0,
+    "chapter": 1,
+    "title": "Extreme Ownership",
+    "theme": "The leader owns everything in their world — every outcome, every failure, every gap — with zero excuses and zero blame passed down or sideways.",
+    "seed_questions": [
+      "Where have I blamed a bad outcome on someone else's failure to execute, when the real gap was in how I trained, briefed, or led them?",
+      "What is one result in my life right now that I've been explaining away instead of owning?"
+    ]
+  },
+  {
+    "index": 1,
+    "chapter": 2,
+    "title": "No Bad Teams, Only Bad Leaders",
+    "theme": "A team's performance is a direct reflection of its leader's standards, attitude, and example — a struggling team is a leadership problem before it's a personnel problem.",
+    "seed_questions": [
+      "If my team, crew, family, or squad is underperforming somewhere, what am I modeling that's producing that?",
+      "Have I written off a person as 'the problem' instead of asking what leadership from me could change?"
+    ]
+  },
+  {
+    "index": 2,
+    "chapter": 3,
+    "title": "Believe",
+    "theme": "People will not fully commit to a mission until they understand and believe in the reason behind it — a leader must know the 'why' deeply enough to convince others of it.",
+    "seed_questions": [
+      "Do the people who follow me actually understand why we're doing what we're doing, or am I just issuing instructions?",
+      "Where in my own life am I going through motions without believing in the mission myself?"
+    ]
+  },
+  {
+    "index": 3,
+    "chapter": 4,
+    "title": "Check the Ego",
+    "theme": "Ego clouds judgment, blinds a leader to real conditions, and prevents honest self-assessment — humility and objectivity have to win out over pride for good decisions to follow.",
+    "seed_questions": [
+      "Where has my pride made me defensive instead of teachable this week?",
+      "Is there a decision I'm resisting purely because admitting I was wrong would sting?"
+    ]
+  },
+  {
+    "index": 4,
+    "chapter": 5,
+    "title": "Cover and Move",
+    "theme": "Teams win through mutual support, not solo heroics — every part of the team is responsible for the success of every other part, because they all fail or succeed together.",
+    "seed_questions": [
+      "Where have I let a silo mentality creep in — treating another team, department, or family member's struggle as 'not my problem'?",
+      "Who around me needs me to cover for them this week, even outside my lane?"
+    ]
+  },
+  {
+    "index": 5,
+    "chapter": 6,
+    "title": "Simple",
+    "theme": "Plans and instructions have to be stripped down to what's essential and easily understood — complexity breeds confusion, and confusion breeds failure under pressure.",
+    "seed_questions": [
+      "What's one plan, instruction, or expectation I've made needlessly complicated?",
+      "If I had to explain today's priority in one sentence to someone tired and distracted, could I?"
+    ]
+  },
+  {
+    "index": 6,
+    "chapter": 7,
+    "title": "Prioritize and Execute",
+    "theme": "When multiple problems hit at once, a leader has to relentlessly identify the single highest priority, solve that first, then move to the next — not try to fix everything simultaneously.",
+    "seed_questions": [
+      "What's actually the biggest threat or opportunity in front of me right now, versus what's just loudest?",
+      "Where am I scattering my attention across five problems instead of solving the one that matters most?"
+    ]
+  },
+  {
+    "index": 7,
+    "chapter": 8,
+    "title": "Decentralized Command",
+    "theme": "No single leader can control everything directly — leaders have to push decision-making authority down to those closest to the problem, and train people to own their own piece of the mission.",
+    "seed_questions": [
+      "Am I holding onto decisions that someone closer to the problem could and should make?",
+      "Do the people under my charge understand the mission well enough to make good calls without me in the room?"
+    ]
+  },
+  {
+    "index": 8,
+    "chapter": 9,
+    "title": "Plan",
+    "theme": "Good planning means analyzing the mission, identifying every likely contingency, and building a plan the whole team understands and has helped shape — not just issuing top-down orders.",
+    "seed_questions": [
+      "Did I actually plan for this week, or am I just reacting to whatever comes at me?",
+      "Who should have had a voice in this plan who didn't?"
+    ]
+  },
+  {
+    "index": 9,
+    "chapter": 10,
+    "title": "Leading Up and Down the Chain of Command",
+    "theme": "Leadership isn't just managing subordinates — it's also managing up, making sure those above you have the information and context they need, and asking rather than assuming when guidance is unclear.",
+    "seed_questions": [
+      "Have I kept the people above me (a boss, a commander, a spouse) genuinely informed, or just hoped it would work out?",
+      "Where did I assume I understood what was expected of me instead of just asking?"
+    ]
+  },
+  {
+    "index": 10,
+    "chapter": 11,
+    "title": "Decisiveness Amid Uncertainty",
+    "theme": "Leaders rarely have complete information — waiting for perfect clarity is itself a decision, usually the wrong one. A good leader gathers what's available, decides, and adjusts as reality unfolds.",
+    "seed_questions": [
+      "What decision have I been stalling on, waiting for certainty that's never going to come?",
+      "Where did indecision itself cost me or my team more than a wrong-but-timely call would have?"
+    ]
+  },
+  {
+    "index": 11,
+    "chapter": 12,
+    "title": "Discipline Equals Freedom",
+    "theme": "The disciplines that feel restrictive in the moment — routine, structure, standards — are exactly what create the freedom, trust, and capability to handle whatever comes.",
+    "seed_questions": [
+      "What discipline have I let slide that used to give me margin and control?",
+      "Where would ten extra minutes of structure today buy me hours of freedom later this week?"
+    ]
+  }
+]

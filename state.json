@@ -1,0 +1,6 @@
+{
+  "next_episode_number": 1,
+  "last_run_date": null,
+  "show_started": null,
+  "notes": "episode_number is 1-indexed and monotonically increasing. principle_index = (episode_number - 1) % 12. pass_number = (episode_number - 1) // 12 (0-indexed pass through the 12 principles). lens_index = pass_number % 4. This gives: pass 0 = all 12 principles through the Disciple lens, pass 1 = all 12 through Warrant Officer, pass 2 = all 12 through Business Owner, pass 3 = all 12 through Father/Husband, pass 4 = back to Disciple (2nd time through), etc."
+}

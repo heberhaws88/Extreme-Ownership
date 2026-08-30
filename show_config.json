@@ -1,0 +1,26 @@
+{
+  "show_title": "Extreme Ownership Daily",
+  "show_subtitle": "Jocko Willink's leadership principles, one at a time — through faith, the National Guard, the trade, and home.",
+  "show_description": "A short daily study working through the 12 principles of Extreme Ownership by Jocko Willink and Leif Babin. Each pass through the book applies the principles through a different lens: as a disciple of Jesus Christ, as a Warrant Officer and engineer in the Army National Guard, as an electrical contractor running his own business, and as a husband and father. New episodes weekdays.",
+  "author_name": "REPLACE_WITH_YOUR_NAME",
+  "author_email": "REPLACE_WITH_YOUR_EMAIL",
+  "language": "en-us",
+  "explicit": false,
+  "itunes_category": "Religion & Spirituality",
+  "itunes_subcategory": "Christianity",
+  "cover_image_url": "https://REPLACE-WITH-YOUR-GITHUB-USERNAME.github.io/REPLACE-WITH-YOUR-NEW-REPO-NAME/artwork/cover.jpg",
+  "site_base_url": "https://REPLACE-WITH-YOUR-GITHUB-USERNAME.github.io/REPLACE-WITH-YOUR-NEW-REPO-NAME",
+  "feed_path_note": "site_base_url must match wherever GitHub Pages actually serves this repo. For a normal project repo (not one named yourusername.github.io) it's https://<username>.github.io/<repo-name> — see README.",
+  "tts": {
+    "provider": "openai",
+    "model": "tts-1-hd",
+    "voice": "onyx",
+    "instructions_note": "Set to match whatever voice/model your Book of Mormon show already uses, if different, so the two shows sound consistent with each other. Defaults here (tts-1-hd / onyx) are a reasonable deep, steady voice for a leadership show if you have no preference."
+  },
+  "anthropic": {
+    "model": "claude-sonnet-4-5",
+    "max_tokens": 4096
+  },
+  "target_minutes": [15, 20],
+  "words_per_minute_estimate": 150
+}
