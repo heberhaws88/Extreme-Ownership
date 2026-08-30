@@ -11,8 +11,7 @@ name: Extreme Ownership Daily Episode
 
 on:
   schedule:
-    - cron: "0 12 * * 1-5"  # Mon-Fri, 12:00 UTC
-  workflow_dispatch:
+       - cron: "43 10 * * 1-5"  # Mon-Fri, 10:43 UTC = 4:43 AM Mountain Daylight Time
     inputs:
       dry_run:
         description: "Run in dry-run mode (no API calls, no cost)"
