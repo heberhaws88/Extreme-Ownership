@@ -6,7 +6,7 @@
     <atom:link href="https://heberhaws88.github.io/Extreme-Ownership/feed/feed.xml" rel="self" type="application/rss+xml" />
     <description>A short daily study working through the 12 principles of Extreme-Ownership by Jocko Willink and Leif Babin. Each pass through the book applies the principles through a different lens: as a disciple of Jesus Christ, as a Warrant Officer and engineer in the Army National Guard, as an electrical contractor running his own business, and as a husband and father. New episodes weekdays.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 31 Aug 2026 10:54:14 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 10:57:05 +0000</lastBuildDate>
     <itunes:author>Heber Haws</itunes:author>
     <itunes:summary>A short daily study working through the 12 principles of Extreme-Ownership by Jocko Willink and Leif Babin. Each pass through the book applies the principles through a different lens: as a disciple of Jesus Christ, as a Warrant Officer and engineer in the Army National Guard, as an electrical contractor running his own business, and as a husband and father. New episodes weekdays.</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -23,6 +23,15 @@
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity" />
     </itunes:category>
+    <item>
+      <title>Ep. 0005 — Cover and Move (through the Disciple of Jesus Christ)</title>
+      <description>Teams win through mutual support, not solo heroics — every part of the team is responsible for the success of every other part, because they all fail or succeed together. Tonight's lens: Disciple of Jesus Christ.</description>
+      <guid isPermaLink="false">https://heberhaws88.github.io/Extreme-Ownership/episodes/0005-disciple-cover-and-move</guid>
+      <pubDate>Tue, 01 Sep 2026 10:57:05 +0000</pubDate>
+      <enclosure url="https://heberhaws88.github.io/Extreme-Ownership/episodes/0005-disciple-cover-and-move.mp3" length="2979981" type="audio/mpeg" />
+      <itunes:duration>12:24</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Ep. 0004 — Check the Ego (through the Disciple of Jesus Christ)</title>
       <description>Ego clouds judgment, blinds a leader to real conditions, and prevents honest self-assessment — humility and objectivity have to win out over pride for good decisions to follow. Tonight's lens: Disciple of Jesus Christ.</description>
