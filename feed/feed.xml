@@ -6,7 +6,7 @@
     <atom:link href="https://heberhaws88.github.io/Extreme-Ownership/feed/feed.xml" rel="self" type="application/rss+xml" />
     <description>A short daily study working through the 12 principles of Extreme-Ownership by Jocko Willink and Leif Babin. Each pass through the book applies the principles through a different lens: as a disciple of Jesus Christ, as a Warrant Officer and engineer in the Army National Guard, as an electrical contractor running his own business, and as a husband and father. New episodes weekdays.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 03 Sep 2026 10:54:55 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 10:56:05 +0000</lastBuildDate>
     <itunes:author>Heber Haws</itunes:author>
     <itunes:summary>A short daily study working through the 12 principles of Extreme-Ownership by Jocko Willink and Leif Babin. Each pass through the book applies the principles through a different lens: as a disciple of Jesus Christ, as a Warrant Officer and engineer in the Army National Guard, as an electrical contractor running his own business, and as a husband and father. New episodes weekdays.</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -23,6 +23,15 @@
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity" />
     </itunes:category>
+    <item>
+      <title>Ep. 0008 — Decentralized Command (through the Disciple of Jesus Christ)</title>
+      <description>No single leader can control everything directly — leaders have to push decision-making authority down to those closest to the problem, and train people to own their own piece of the mission. Tonight's lens: Disciple of Jesus Christ.</description>
+      <guid isPermaLink="false">https://heberhaws88.github.io/Extreme-Ownership/episodes/0008-disciple-decentralized-command</guid>
+      <pubDate>Fri, 04 Sep 2026 10:56:05 +0000</pubDate>
+      <enclosure url="https://heberhaws88.github.io/Extreme-Ownership/episodes/0008-disciple-decentralized-command.mp3" length="3220941" type="audio/mpeg" />
+      <itunes:duration>13:25</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Ep. 0007 — Prioritize and Execute (through the Disciple of Jesus Christ)</title>
       <description>When multiple problems hit at once, a leader has to relentlessly identify the single highest priority, solve that first, then move to the next — not try to fix everything simultaneously. Tonight's lens: Disciple of Jesus Christ.</description>
