@@ -2,10 +2,10 @@
 {
   "show_title": "Extreme Ownership: Wired",
   "show_description": "A weekly leadership podcast for Horsepower Electric and Wells Cutting Edge, applying Extreme Ownership to real high-end residential electrical and landscaping work.",
-  "site_base_url": "REPLACE_WITH_YOUR_SITE_BASE_URL/extreme-ownership-wired",
+  "site_base_url": "https://heberhaws88.github.io/Extreme-Ownership/extreme-ownership-wired",
   "author_name": "Heber Haws",
   "author_email": "REPLACE_WITH_YOUR_EMAIL",
-  "cover_image_url": "REPLACE_WITH_YOUR_SITE_BASE_URL/extreme-ownership-wired/artwork/cover.jpg",
+  "cover_image_url": "https://heberhaws88.github.io/Extreme-Ownership/extreme-ownership-wired/artwork/cover.jpg",
   "language": "en-us",
   "explicit": false,
   "itunes_category": "Business",
