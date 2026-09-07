@@ -1,0 +1,366 @@
+[
+  {
+    "episode_num": 1,
+    "air_date": "2026-09-07",
+    "chapter": "Extreme Ownership",
+    "chapter_num": 1,
+    "perspective": "Apprentice"
+  },
+  {
+    "episode_num": 2,
+    "air_date": "2026-09-14",
+    "chapter": "Extreme Ownership",
+    "chapter_num": 1,
+    "perspective": "Journeyman"
+  },
+  {
+    "episode_num": 3,
+    "air_date": "2026-09-21",
+    "chapter": "Extreme Ownership",
+    "chapter_num": 1,
+    "perspective": "Lead"
+  },
+  {
+    "episode_num": 4,
+    "air_date": "2026-09-28",
+    "chapter": "Extreme Ownership",
+    "chapter_num": 1,
+    "perspective": "Foreman"
+  },
+  {
+    "episode_num": 5,
+    "air_date": "2026-10-05",
+    "chapter": "No Bad Teams, Only Bad Leaders",
+    "chapter_num": 2,
+    "perspective": "Apprentice"
+  },
+  {
+    "episode_num": 6,
+    "air_date": "2026-10-12",
+    "chapter": "No Bad Teams, Only Bad Leaders",
+    "chapter_num": 2,
+    "perspective": "Journeyman"
+  },
+  {
+    "episode_num": 7,
+    "air_date": "2026-10-19",
+    "chapter": "No Bad Teams, Only Bad Leaders",
+    "chapter_num": 2,
+    "perspective": "Lead"
+  },
+  {
+    "episode_num": 8,
+    "air_date": "2026-10-26",
+    "chapter": "No Bad Teams, Only Bad Leaders",
+    "chapter_num": 2,
+    "perspective": "Foreman"
+  },
+  {
+    "episode_num": 9,
+    "air_date": "2026-11-02",
+    "chapter": "Believe",
+    "chapter_num": 3,
+    "perspective": "Apprentice"
+  },
+  {
+    "episode_num": 10,
+    "air_date": "2026-11-09",
+    "chapter": "Believe",
+    "chapter_num": 3,
+    "perspective": "Journeyman"
+  },
+  {
+    "episode_num": 11,
+    "air_date": "2026-11-16",
+    "chapter": "Believe",
+    "chapter_num": 3,
+    "perspective": "Lead"
+  },
+  {
+    "episode_num": 12,
+    "air_date": "2026-11-23",
+    "chapter": "Believe",
+    "chapter_num": 3,
+    "perspective": "Foreman"
+  },
+  {
+    "episode_num": 13,
+    "air_date": "2026-11-30",
+    "chapter": "Believe",
+    "chapter_num": 3,
+    "perspective": "Project Manager"
+  },
+  {
+    "episode_num": 14,
+    "air_date": "2026-12-07",
+    "chapter": "Check the Ego",
+    "chapter_num": 4,
+    "perspective": "Apprentice"
+  },
+  {
+    "episode_num": 15,
+    "air_date": "2026-12-14",
+    "chapter": "Check the Ego",
+    "chapter_num": 4,
+    "perspective": "Journeyman"
+  },
+  {
+    "episode_num": 16,
+    "air_date": "2026-12-21",
+    "chapter": "Check the Ego",
+    "chapter_num": 4,
+    "perspective": "Lead"
+  },
+  {
+    "episode_num": 17,
+    "air_date": "2026-12-28",
+    "chapter": "Check the Ego",
+    "chapter_num": 4,
+    "perspective": "Foreman"
+  },
+  {
+    "episode_num": 18,
+    "air_date": "2027-01-04",
+    "chapter": "Cover and Move",
+    "chapter_num": 5,
+    "perspective": "Apprentice"
+  },
+  {
+    "episode_num": 19,
+    "air_date": "2027-01-11",
+    "chapter": "Cover and Move",
+    "chapter_num": 5,
+    "perspective": "Journeyman"
+  },
+  {
+    "episode_num": 20,
+    "air_date": "2027-01-18",
+    "chapter": "Cover and Move",
+    "chapter_num": 5,
+    "perspective": "Lead"
+  },
+  {
+    "episode_num": 21,
+    "air_date": "2027-01-25",
+    "chapter": "Cover and Move",
+    "chapter_num": 5,
+    "perspective": "Foreman"
+  },
+  {
+    "episode_num": 22,
+    "air_date": "2027-02-01",
+    "chapter": "Simple",
+    "chapter_num": 6,
+    "perspective": "Apprentice"
+  },
+  {
+    "episode_num": 23,
+    "air_date": "2027-02-08",
+    "chapter": "Simple",
+    "chapter_num": 6,
+    "perspective": "Journeyman"
+  },
+  {
+    "episode_num": 24,
+    "air_date": "2027-02-15",
+    "chapter": "Simple",
+    "chapter_num": 6,
+    "perspective": "Lead"
+  },
+  {
+    "episode_num": 25,
+    "air_date": "2027-02-22",
+    "chapter": "Simple",
+    "chapter_num": 6,
+    "perspective": "Foreman"
+  },
+  {
+    "episode_num": 26,
+    "air_date": "2027-03-01",
+    "chapter": "Prioritize and Execute",
+    "chapter_num": 7,
+    "perspective": "Apprentice"
+  },
+  {
+    "episode_num": 27,
+    "air_date": "2027-03-08",
+    "chapter": "Prioritize and Execute",
+    "chapter_num": 7,
+    "perspective": "Journeyman"
+  },
+  {
+    "episode_num": 28,
+    "air_date": "2027-03-15",
+    "chapter": "Prioritize and Execute",
+    "chapter_num": 7,
+    "perspective": "Lead"
+  },
+  {
+    "episode_num": 29,
+    "air_date": "2027-03-22",
+    "chapter": "Prioritize and Execute",
+    "chapter_num": 7,
+    "perspective": "Foreman"
+  },
+  {
+    "episode_num": 30,
+    "air_date": "2027-03-29",
+    "chapter": "Prioritize and Execute",
+    "chapter_num": 7,
+    "perspective": "Owner"
+  },
+  {
+    "episode_num": 31,
+    "air_date": "2027-04-05",
+    "chapter": "Decentralized Command",
+    "chapter_num": 8,
+    "perspective": "Apprentice"
+  },
+  {
+    "episode_num": 32,
+    "air_date": "2027-04-12",
+    "chapter": "Decentralized Command",
+    "chapter_num": 8,
+    "perspective": "Journeyman"
+  },
+  {
+    "episode_num": 33,
+    "air_date": "2027-04-19",
+    "chapter": "Decentralized Command",
+    "chapter_num": 8,
+    "perspective": "Lead"
+  },
+  {
+    "episode_num": 34,
+    "air_date": "2027-04-26",
+    "chapter": "Decentralized Command",
+    "chapter_num": 8,
+    "perspective": "Foreman"
+  },
+  {
+    "episode_num": 35,
+    "air_date": "2027-05-03",
+    "chapter": "Plan",
+    "chapter_num": 9,
+    "perspective": "Apprentice"
+  },
+  {
+    "episode_num": 36,
+    "air_date": "2027-05-10",
+    "chapter": "Plan",
+    "chapter_num": 9,
+    "perspective": "Journeyman"
+  },
+  {
+    "episode_num": 37,
+    "air_date": "2027-05-17",
+    "chapter": "Plan",
+    "chapter_num": 9,
+    "perspective": "Lead"
+  },
+  {
+    "episode_num": 38,
+    "air_date": "2027-05-24",
+    "chapter": "Plan",
+    "chapter_num": 9,
+    "perspective": "Foreman"
+  },
+  {
+    "episode_num": 39,
+    "air_date": "2027-05-31",
+    "chapter": "Plan",
+    "chapter_num": 9,
+    "perspective": "Supplier"
+  },
+  {
+    "episode_num": 40,
+    "air_date": "2027-06-07",
+    "chapter": "Leading Up and Down the Chain of Command",
+    "chapter_num": 10,
+    "perspective": "Apprentice"
+  },
+  {
+    "episode_num": 41,
+    "air_date": "2027-06-14",
+    "chapter": "Leading Up and Down the Chain of Command",
+    "chapter_num": 10,
+    "perspective": "Journeyman"
+  },
+  {
+    "episode_num": 42,
+    "air_date": "2027-06-21",
+    "chapter": "Leading Up and Down the Chain of Command",
+    "chapter_num": 10,
+    "perspective": "Lead"
+  },
+  {
+    "episode_num": 43,
+    "air_date": "2027-06-28",
+    "chapter": "Leading Up and Down the Chain of Command",
+    "chapter_num": 10,
+    "perspective": "Foreman"
+  },
+  {
+    "episode_num": 44,
+    "air_date": "2027-07-05",
+    "chapter": "Decisiveness Amid Uncertainty",
+    "chapter_num": 11,
+    "perspective": "Apprentice"
+  },
+  {
+    "episode_num": 45,
+    "air_date": "2027-07-12",
+    "chapter": "Decisiveness Amid Uncertainty",
+    "chapter_num": 11,
+    "perspective": "Journeyman"
+  },
+  {
+    "episode_num": 46,
+    "air_date": "2027-07-19",
+    "chapter": "Decisiveness Amid Uncertainty",
+    "chapter_num": 11,
+    "perspective": "Lead"
+  },
+  {
+    "episode_num": 47,
+    "air_date": "2027-07-26",
+    "chapter": "Decisiveness Amid Uncertainty",
+    "chapter_num": 11,
+    "perspective": "Foreman"
+  },
+  {
+    "episode_num": 48,
+    "air_date": "2027-08-02",
+    "chapter": "Discipline Equals Freedom: The Dichotomy of Leadership",
+    "chapter_num": 12,
+    "perspective": "Apprentice"
+  },
+  {
+    "episode_num": 49,
+    "air_date": "2027-08-09",
+    "chapter": "Discipline Equals Freedom: The Dichotomy of Leadership",
+    "chapter_num": 12,
+    "perspective": "Journeyman"
+  },
+  {
+    "episode_num": 50,
+    "air_date": "2027-08-16",
+    "chapter": "Discipline Equals Freedom: The Dichotomy of Leadership",
+    "chapter_num": 12,
+    "perspective": "Lead"
+  },
+  {
+    "episode_num": 51,
+    "air_date": "2027-08-23",
+    "chapter": "Discipline Equals Freedom: The Dichotomy of Leadership",
+    "chapter_num": 12,
+    "perspective": "Foreman"
+  },
+  {
+    "episode_num": 52,
+    "air_date": "2027-08-30",
+    "chapter": "Discipline Equals Freedom: The Dichotomy of Leadership",
+    "chapter_num": 12,
+    "perspective": "Project Manager"
+  }
+]
