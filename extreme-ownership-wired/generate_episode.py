@@ -19,7 +19,7 @@ Env vars required (set as GitHub Actions secrets, already shared repo-wide):
 import json
 import os
 import sys
-from datetime import date, datetime, timezone
+from datetime import date, datetime, timedelta, timezone
 from pathlib import Path
 
 import anthropic
@@ -42,13 +42,23 @@ openai_client = OpenAI(api_key=os.environ["OPENAI_API_KEY"])
 
 
 def load_this_weeks_slot(today: date) -> dict:
-    """Find the calendar entry matching today's date (run via cron each Monday)."""
+    """
+    Find the calendar entry for the current week. Matches against the Monday
+    of today's week rather than an exact date stamp, so this stays correct
+    even if the cron fires slightly late, the runner clock has drifted into
+    the next UTC day, or someone triggers a manual run a day or two off
+    schedule.
+    """
+    monday_of_this_week = today - timedelta(days=today.weekday())
     with open(CALENDAR_PATH) as f:
         slots = json.load(f)
     for slot in slots:
-        if datetime.strptime(slot["air_date"], "%Y-%m-%d").date() == today:
+        if datetime.strptime(slot["air_date"], "%Y-%m-%d").date() == monday_of_this_week:
             return slot
-    raise SystemExit(f"No episode scheduled for {today.isoformat()} — check calendar.json")
+    raise SystemExit(
+        f"No episode scheduled for the week of {monday_of_this_week.isoformat()} "
+        f"— check calendar.json"
+    )
 
 
 def build_prompt(slot: dict) -> str:
