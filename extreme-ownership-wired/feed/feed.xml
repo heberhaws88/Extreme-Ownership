@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Extreme Ownership: Wired</title>
+    <link>https://heberhaws88.github.io/Extreme-Ownership/extreme-ownership-wired</link>
+    <atom:link href="https://heberhaws88.github.io/Extreme-Ownership/extreme-ownership-wired/feed/feed.xml" rel="self" type="application/rss+xml" />
+    <description>A weekly leadership podcast for Horsepower Electric and Wells Cutting Edge, applying Extreme Ownership to real high-end residential electrical and landscaping work.</description>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 08 Sep 2026 00:58:10 +0000</lastBuildDate>
+    <itunes:author>Heber Haws</itunes:author>
+    <itunes:summary>A weekly leadership podcast for Horsepower Electric and Wells Cutting Edge, applying Extreme Ownership to real high-end residential electrical and landscaping work.</itunes:summary>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="https://heberhaws88.github.io/Extreme-Ownership/extreme-ownership-wired/artwork/cover.jpg" />
+    <image>
+      <url>https://heberhaws88.github.io/Extreme-Ownership/extreme-ownership-wired/artwork/cover.jpg</url>
+      <title>Extreme Ownership: Wired</title>
+      <link>https://heberhaws88.github.io/Extreme-Ownership/extreme-ownership-wired</link>
+    </image>
+    <itunes:owner>
+      <itunes:name>Heber Haws</itunes:name>
+      <itunes:email>REPLACE_WITH_YOUR_EMAIL</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Business">
+      <itunes:category text="Management" />
+    </itunes:category>
+    <item>
+      <title>Ep. 001 — Extreme Ownership (Apprentice)</title>
+      <description>This week's Extreme Ownership principle applied to both Horsepower Electric and Wells Cutting Edge, through the Apprentice perspective.</description>
+      <guid isPermaLink="false">https://heberhaws88.github.io/Extreme-Ownership/extreme-ownership-wired/episodes/ep001-apprentice</guid>
+      <pubDate>Tue, 08 Sep 2026 00:58:10 +0000</pubDate>
+      <enclosure url="https://heberhaws88.github.io/Extreme-Ownership/extreme-ownership-wired/episodes/ep001-apprentice.mp3" length="6829773" type="audio/mpeg" />
+      <itunes:duration>28:27</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+  </channel>
+</rss>
