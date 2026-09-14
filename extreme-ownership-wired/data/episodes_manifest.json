@@ -8,5 +8,15 @@
     "file_size_bytes": 6829773,
     "duration_seconds": 1707,
     "mp3_filename": "ep001-apprentice.mp3"
+  },
+  {
+    "guid": "https://heberhaws88.github.io/Extreme-Ownership/extreme-ownership-wired/episodes/ep002-journeyman",
+    "title": "Ep. 002 — Extreme Ownership (Journeyman)",
+    "description": "This week's Extreme Ownership principle applied to both Horsepower Electric and Wells Cutting Edge, through the Journeyman perspective.",
+    "pub_date": "2026-09-14T11:10:10.457744+00:00",
+    "audio_url": "https://heberhaws88.github.io/Extreme-Ownership/extreme-ownership-wired/episodes/ep002-journeyman.mp3",
+    "file_size_bytes": 5578893,
+    "duration_seconds": 1394,
+    "mp3_filename": "ep002-journeyman.mp3"
   }
 ]
