@@ -168,5 +168,15 @@
     "file_size_bytes": 3320205,
     "duration_seconds": 829,
     "mp3_filename": "0017-warrant_officer-cover-and-move.mp3"
+  },
+  {
+    "guid": "https://heberhaws88.github.io/Extreme-Ownership/episodes/0018-warrant_officer-simple",
+    "title": "Ep. 0018 — Simple (through the Warrant Officer / Army National Guard Engineer)",
+    "description": "Plans and instructions have to be stripped down to what's essential and easily understood — complexity breeds confusion, and confusion breeds failure under pressure. Tonight's lens: Warrant Officer / Army National Guard Engineer.",
+    "pub_date": "2026-09-18T10:55:12.025354+00:00",
+    "audio_url": "https://heberhaws88.github.io/Extreme-Ownership/episodes/0018-warrant_officer-simple.mp3",
+    "file_size_bytes": 3128973,
+    "duration_seconds": 782,
+    "mp3_filename": "0018-warrant_officer-simple.mp3"
   }
 ]

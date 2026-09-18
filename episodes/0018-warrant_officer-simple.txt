@@ -1,0 +1,67 @@
+You know that moment right before a mission brief when the officer in charge is still fussing with the slide deck, adding one more overlay to the map, one more bullet to the task list, one more contingency branch to the decision tree — and you can see the eyes of the troops in the room start to glaze over before the brief even starts. I've been that officer. More than once. And I've also been the guy in the back trying to figure out how I'm supposed to execute a plan I don't actually understand because it got buried under six layers of what-ifs and technical jargon and tasks that all seemed equally important, which is just another way of saying none of them were.
+
+Tonight we're talking about simplicity. Chapter six of Extreme Ownership by Jocko Willink and Leif Babin. The principle is this: plans and instructions have to be stripped down to what's essential and easily understood. Complexity breeds confusion. Confusion breeds failure under pressure. And pressure is the only environment that matters, because if a plan only works when everything's calm and everyone's fresh and you've got time to ask clarifying questions, it's not a real plan — it's a wish.
+
+The authors lay this out from their time leading SEAL platoons in Ramadi. When you're about to roll out the gate into an active combat zone, the guy next to you needs to know exactly what the mission is, what his job is, and what happens if things go wrong. He doesn't need a dissertation. He needs clarity. And the person responsible for giving him that clarity is the leader. If your plan is so complicated that people can't repeat it back to you in their own words, the plan is the problem. Not them. You.
+
+Now before we go any further into the Guard side of this, I need to say something about what simplicity looks like when you're trying to follow Jesus Christ. Because that's the foundation here. And honestly, the Lord is the one who taught me this principle long before I ever picked up a leadership book.
+
+Jesus didn't give complicated instructions. Love God. Love your neighbor. Repent. Follow me. Take up your cross. Feed my sheep. He was speaking to fishermen, tax collectors, regular working people who didn't have the luxury of parsing seven-point theological arguments in the middle of their day. He made the truth simple enough that a child could grasp it, and deep enough that you could spend your whole life learning to live it. That's the model. Simplicity isn't dumbing things down. It's refining things to their essence so they can actually be lived.
+
+And when I think about what it means to be a disciple — not just to believe in Christ, but to actually follow him — the question I keep coming back to is this: can I explain what I'm supposed to be doing today in one sentence? Love the people in front of me. Serve where I'm called. Do the work with integrity. Repent when I fall short. It's not that the gospel isn't deep — it is, endlessly — but the application in any given moment is almost always simple. The complexity is usually something I add because I'm either overthinking it or trying to avoid the straightforward, uncomfortable thing I actually need to do.
+
+Alright. Let's talk about the Guard.
+
+A few months ago we had a training exercise — a simulated deployment scenario where my unit was tasked with setting up a forward operating base, which meant we had to establish power generation, water distribution, some basic infrastructure on a timeline that was, let's say, optimistic. I'm a Warrant Officer, which means my job is to be the technical expert. I know the systems, I know the equipment, I know how to make things work. But I'm also an officer, which means I'm supposed to lead, not just know things. And that's where I got myself in trouble.
+
+We had a planning meeting the night before the exercise kicked off. I was responsible for briefing the power generation piece — how we were going to get the generators in place, what the load priorities were, how we'd troubleshoot if something went down. And because I'm an engineer and I wanted to make sure we were ready for every possible scenario, I put together what I thought was a thorough plan. I had a diagram showing the layout of the generators, the fuel points, the distribution panels. I had a priority list for which systems came online in what order. I had contingency plans for if we lost a generator, if we had a fuel delay, if we had to reroute power because of a site change. I had it all.
+
+And I stood up in front of that room and walked through the whole thing. Took me about twenty minutes. I was clear, I thought. I explained every step. I answered questions. People nodded. I sat down feeling pretty good about it.
+
+The next morning we rolled out to the site, and it became immediately obvious that nobody knew what they were supposed to be doing.
+
+One of the NCOs had his team setting up a generator in the wrong spot because he thought that's what the diagram showed. Another team was waiting on fuel that they could've started moving an hour earlier, but they weren't sure if that was their job or someone else's. My second-in-command came up to me and asked which system we were bringing online first, and when I reminded him we'd gone over the priority list, he just looked at me and said, "Yeah, I know you covered it, sir, but I couldn't keep it all straight. What do you need from me right now?"
+
+And that's when it hit me. I'd given them a plan that was technically complete and functionally useless. Because they didn't need to know everything I knew. They needed to know what their job was and what the main effort was. That's it. I'd buried the essential under a pile of contingencies and detail that might matter later, but didn't matter now. And because I hadn't made the priority clear — I mean really clear, the kind of clear that survives fatigue and noise and distraction — they defaulted to guessing. Or waiting for me to tell them. Which meant I became the bottleneck, running around putting out fires that shouldn't have started in the first place.
+
+I stopped what I was doing, pulled the key leaders together, and said, "Forget everything I briefed last night. Here's the only thing that matters right now: we need generator three online powering the command post within two hours. That's the mission. Everything else is secondary. If you're not directly contributing to that, you're either pre-positioning for the next task or you're staying out of the way. Questions?"
+
+One NCO asked where generator three was going. I pointed. Another asked what he should do with his team. I told him. The whole conversation took maybe three minutes. And then they went and did it. Generator three was online in an hour and forty minutes. No drama. No confusion.
+
+Later that night, after we'd finished the exercise and were doing the after-action review, I owned it in front of the group. I said, "My brief last night was too complicated. I gave you a plan that was more about covering every scenario than making sure you understood the main thing. That's on me. If you didn't know what to do this morning, that's because I didn't make it clear enough. I'm going to do better."
+
+And one of the younger enlisted guys, who normally doesn't say much in these meetings, raised his hand and said, "Sir, it actually helped when you just told us the one thing this morning. Like, I knew what we were doing."
+
+Yeah. That's the point.
+
+Here's what I've learned, both as a Warrant Officer and honestly in every other part of my life: the more I know about something, the more tempted I am to over-explain it. Because I see all the variables. I see all the things that could go wrong. I see the nuances. And I assume that if I don't communicate all of that, I'm being irresponsible or I'm setting people up to fail. But the opposite is true. If I try to communicate all of that up front, I guarantee they'll fail, because they'll be overwhelmed or confused or they'll miss the actual priority buried in the middle of my monologue.
+
+Simplicity requires discipline. It requires knowing the difference between what's essential and what's just detail. And it requires trusting the people you're leading to be smart enough to handle the detail when it becomes relevant, instead of front-loading them with everything at once.
+
+The technical expert in me wants to explain how the system works. The leader in me has to explain what we're doing and why it matters. Those aren't the same thing. And I've had to learn, sometimes the hard way, that my job isn't to transfer everything in my head into theirs. My job is to make the mission so clear that they can execute it even when I'm not standing there.
+
+There's a guy I work with, younger Warrant Officer, sharp as they come. He knows his stuff cold. But he struggles with this same thing. A few weeks ago he was tasking one of his teams to run a site survey for a future project, and he gave them about fifteen different data points to collect, half of which were nice-to-have but not critical. His team came back with incomplete information because they ran out of time trying to get everything and didn't know what to prioritize. He was frustrated. They were frustrated. And when we talked about it afterward, I asked him, "If you could only get one thing from that survey, what would it be?"
+
+He thought about it and said, "Honestly, just the load requirements. Everything else we can figure out later."
+
+I said, "So why didn't you tell them that?"
+
+He didn't have a good answer. And neither did I, back when I was making the same mistake.
+
+Here's the thing. Simplicity isn't about lowering standards. It's not about assuming people can't handle complexity. It's about recognizing that complexity has a cost, and that cost is clarity. And in any high-pressure environment — whether that's a training exercise, a real-world mission, a tough day on a job site, a crisis at home — clarity is what people need most. They need to know what matters right now. They need to know what their job is. They need to know how their piece fits into the bigger picture. If I can give them that in a way they can remember and repeat, they'll execute. If I can't, they won't. It's that simple.
+
+So here's what I'm working on. Before I brief anything, before I give any instruction or lay out any plan, I'm asking myself: what's the one thing that has to happen here? What's the main effort? And can I say it in one sentence? If I can't, I'm not ready to brief. I'm still thinking, not leading.
+
+And then, after I've said that one thing, I'm asking: what's the minimum additional information they need to execute it? Not everything they might eventually need. Not every contingency I can think of. Just what they need now. The rest can come later, when it's relevant, in a context where they can actually absorb it.
+
+This applies to more than just mission briefs. It applies to guidance I give to the soldiers I'm responsible for. It applies to how I prioritize my own task list when things get busy. It applies to how I communicate up the chain when I need a decision or resources. If I can't make my request or my plan or my guidance simple and clear, I'm asking people to do my thinking for me. And that's not leadership. That's burden-shifting.
+
+There's a line I've heard in a few different places, and I don't know who to credit it to, but it goes like this: if you can't explain it simply, you don't understand it well enough. I think that's mostly true. But I'd add this: even if you do understand it, if you can't explain it simply, the people you're leading won't be able to execute it. And execution is the only thing that matters.
+
+So here's the question I want you to sit with tonight. Think about something you're responsible for right now. Could be a project at work. Could be a responsibility at home. Could be a goal you're working toward, or a standard you're trying to hold, or an instruction you've given to someone who answers to you. Now ask yourself: if the person who has to execute this — or if you're the one executing it, if you had to explain it to yourself under pressure, tired, distracted, maybe a little rattled — could you say in one sentence what the main thing is?
+
+If you can, good. You're probably on the right track. If you can't, you've got some simplifying to do. And that's not a failure. That's just the work. Strip it down. Find the essential. Make it clear.
+
+Because the people you're leading, or the version of yourself that's going to have to execute this when things get hard, they don't need everything you know. They need to know what to do next. Give them that. The rest will follow.
+
+Alright. That's it for tonight. Keep it simple. And I'll talk to you tomorrow.
