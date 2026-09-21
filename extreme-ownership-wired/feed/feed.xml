@@ -6,7 +6,7 @@
     <atom:link href="https://heberhaws88.github.io/Extreme-Ownership/extreme-ownership-wired/feed/feed.xml" rel="self" type="application/rss+xml" />
     <description>A weekly leadership podcast for Horsepower Electric and Wells Cutting Edge, applying Extreme Ownership to real high-end residential electrical and landscaping work.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 14 Sep 2026 11:10:10 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 11:11:44 +0000</lastBuildDate>
     <itunes:author>Heber Haws</itunes:author>
     <itunes:summary>A weekly leadership podcast for Horsepower Electric and Wells Cutting Edge, applying Extreme Ownership to real high-end residential electrical and landscaping work.</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -23,6 +23,15 @@
     <itunes:category text="Business">
       <itunes:category text="Management" />
     </itunes:category>
+    <item>
+      <title>Ep. 003 — Extreme Ownership (Lead)</title>
+      <description>This week's Extreme Ownership principle applied to both Horsepower Electric and Wells Cutting Edge, through the Lead perspective.</description>
+      <guid isPermaLink="false">https://heberhaws88.github.io/Extreme-Ownership/extreme-ownership-wired/episodes/ep003-lead</guid>
+      <pubDate>Mon, 21 Sep 2026 11:11:44 +0000</pubDate>
+      <enclosure url="https://heberhaws88.github.io/Extreme-Ownership/extreme-ownership-wired/episodes/ep003-lead.mp3" length="7763085" type="audio/mpeg" />
+      <itunes:duration>32:20</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Ep. 002 — Extreme Ownership (Journeyman)</title>
       <description>This week's Extreme Ownership principle applied to both Horsepower Electric and Wells Cutting Edge, through the Journeyman perspective.</description>

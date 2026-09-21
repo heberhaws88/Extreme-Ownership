@@ -18,5 +18,15 @@
     "file_size_bytes": 5578893,
     "duration_seconds": 1394,
     "mp3_filename": "ep002-journeyman.mp3"
+  },
+  {
+    "guid": "https://heberhaws88.github.io/Extreme-Ownership/extreme-ownership-wired/episodes/ep003-lead",
+    "title": "Ep. 003 — Extreme Ownership (Lead)",
+    "description": "This week's Extreme Ownership principle applied to both Horsepower Electric and Wells Cutting Edge, through the Lead perspective.",
+    "pub_date": "2026-09-21T11:11:44.537965+00:00",
+    "audio_url": "https://heberhaws88.github.io/Extreme-Ownership/extreme-ownership-wired/episodes/ep003-lead.mp3",
+    "file_size_bytes": 7763085,
+    "duration_seconds": 1940,
+    "mp3_filename": "ep003-lead.mp3"
   }
 ]
