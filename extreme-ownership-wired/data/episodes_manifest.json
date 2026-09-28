@@ -28,5 +28,15 @@
     "file_size_bytes": 7763085,
     "duration_seconds": 1940,
     "mp3_filename": "ep003-lead.mp3"
+  },
+  {
+    "guid": "https://heberhaws88.github.io/Extreme-Ownership/extreme-ownership-wired/episodes/ep004-foreman",
+    "title": "Ep. 004 — Extreme Ownership (Foreman)",
+    "description": "This week's Extreme Ownership principle applied to both Horsepower Electric and Wells Cutting Edge, through the Foreman perspective.",
+    "pub_date": "2026-09-28T11:11:00.651057+00:00",
+    "audio_url": "https://heberhaws88.github.io/Extreme-Ownership/extreme-ownership-wired/episodes/ep004-foreman.mp3",
+    "file_size_bytes": 5756205,
+    "duration_seconds": 1438,
+    "mp3_filename": "ep004-foreman.mp3"
   }
 ]
