@@ -6,7 +6,7 @@
     <atom:link href="https://heberhaws88.github.io/Extreme-Ownership/feed/feed.xml" rel="self" type="application/rss+xml" />
     <description>A short daily study working through the 12 principles of Extreme-Ownership by Jocko Willink and Leif Babin. Each pass through the book applies the principles through a different lens: as a disciple of Jesus Christ, as a Warrant Officer and engineer in the Army National Guard, as an electrical contractor running his own business, and as a husband and father. New episodes weekdays.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 28 Sep 2026 10:58:35 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 16:41:42 +0000</lastBuildDate>
     <itunes:author>Heber Haws</itunes:author>
     <itunes:summary>A short daily study working through the 12 principles of Extreme-Ownership by Jocko Willink and Leif Babin. Each pass through the book applies the principles through a different lens: as a disciple of Jesus Christ, as a Warrant Officer and engineer in the Army National Guard, as an electrical contractor running his own business, and as a husband and father. New episodes weekdays.</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -23,6 +23,15 @@
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity" />
     </itunes:category>
+    <item>
+      <title>Ep. 0025 — Extreme Ownership (through the Business Owner / Electrician)</title>
+      <description>The leader owns everything in their world — every outcome, every failure, every gap — with zero excuses and zero blame passed down or sideways. Tonight's lens: Business Owner / Electrician.</description>
+      <guid isPermaLink="false">https://heberhaws88.github.io/Extreme-Ownership/episodes/0025-business_owner-extreme-ownership</guid>
+      <pubDate>Tue, 29 Sep 2026 16:41:42 +0000</pubDate>
+      <enclosure url="https://heberhaws88.github.io/Extreme-Ownership/episodes/0025-business_owner-extreme-ownership.mp3" length="3012909" type="audio/mpeg" />
+      <itunes:duration>12:33</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Ep. 0024 — Discipline Equals Freedom (through the Warrant Officer / Army National Guard Engineer)</title>
       <description>The disciplines that feel restrictive in the moment — routine, structure, standards — are exactly what create the freedom, trust, and capability to handle whatever comes. Tonight's lens: Warrant Officer / Army National Guard Engineer.</description>

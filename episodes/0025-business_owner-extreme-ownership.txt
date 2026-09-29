@@ -1,0 +1,107 @@
+You know that feeling when you walk onto a job site at the end of the day and something is very clearly not right?
+
+I had that about six months ago. We were running a tenant-improvement job, commercial space, pretty straightforward work — new panels, conduit runs, a bunch of recessed cans, the usual. I had one of my guys leading the crew, good electrician, been with me a couple years. And when I showed up late afternoon to check progress, the first thing I noticed was how quiet it was. Not good quiet. Tense quiet.
+
+Turns out they'd roughed in half the circuits on the wrong phase configuration. The engineer's spec had called for balanced loading across three phases, and what they'd done would work, technically, but it wasn't to print. Which meant we were looking at a re-pull on about sixty feet of conduit, maybe a full day of rework, and I knew — I knew — the general contractor was going to push back hard on any request for more time.
+
+My guy saw my face and immediately started explaining. The plans had been unclear. The GC's super had told him one thing on Tuesday that contradicted the spec. One of the apprentices had pulled wire before he'd had a chance to double-check the layout.
+
+And I stood there listening, and I felt that familiar tightness in my chest, that flash of anger, because I wanted to agree with him. I wanted to say yeah, the plans were a mess, yeah, the GC's guy doesn't know what he's talking about, yeah, the apprentice should have waited.
+
+But that's not Extreme Ownership.
+
+Tonight we're talking about the principle that is the book — the principle that names the whole thing. Extreme Ownership. It's chapter one in the book by Jocko Willink and Leif Babin, and the idea is almost insultingly simple. As the leader, you own everything in your world. Not some things. Not the things that were directly your fault. Everything. Every outcome, every failure, every missed detail, every gap in execution. You own it. No excuses. No blame pushed down the chain to the people who work for you. No blame sideways to the client or the general or the supplier. You own it, and you figure out what you are going to do differently so it doesn't happen again.
+
+That's it. That's the principle. And it is one of the hardest things in the world to actually do, because our brains are wired to protect us. We want to explain. We want to contextualize. We want to make sure everyone understands that it wasn't really our fault.
+
+Extreme Ownership says no. It was. If it happened in your world, it's yours.
+
+Now, before we go any further, I need to say something, because even on a night like this when we're talking business, faith is never separate from the rest of it for me. I follow Jesus Christ. I'm a member of The Church of Jesus Christ of Latter-day Saints. And Extreme Ownership, when I first read it, hit me not just as a leadership principle but as something that echoes all through the gospel.
+
+Because think about what Christ did. He owned what was not His fault. He took ownership of sin — all of it, mine, yours, everyone's — even though He committed none. That's the Atonement. That is the most extreme ownership in the history of the universe. He didn't say, "Well, they made their choices, that's on them." He said, in effect, "I will carry this. I will own the consequence. I will make a way."
+
+Now, I'm not comparing a wiring mistake on a job site to the Atonement. That would be ridiculous. But the principle underneath is the same. Ownership precedes change. You cannot fix what you will not own. And if I'm going to follow Christ, that means I have to be willing to own my failures and my responsibilities without excuse, the same way He owned what was never His to begin with.
+
+So when I'm standing on that job site looking at sixty feet of conduit that's going to have to be re-pulled, and my lead guy is explaining all the reasons it's not his fault — the first thing I have to do is check my own heart. Because my temptation is to let him take the blame. He was the lead. He was on site. I wasn't even there that day.
+
+But Extreme Ownership doesn't let me off that easy.
+
+Because whose job is it to make sure the lead guy knows how to read the plans correctly? Mine. Whose job is it to make sure the crew knows they don't pull wire until the layout is confirmed? Mine. Whose job is it to build a culture where an apprentice knows to ask before acting, and where the lead checks every run before it gets buttoned up? Mine.
+
+I could have done a better job briefing him at the start of the week. I could have been on site earlier in the day to catch it before wire ever got pulled. I could have walked the layout with him on day one instead of assuming he had it.
+
+I didn't. So this is mine.
+
+I told him we'd talk later, and I called the GC. I didn't throw my guy under the bus. I said, "We've got a configuration issue we need to correct. It's on me. We'll have it fixed by end of day tomorrow, no cost to you." The GC wasn't thrilled, but he appreciated that I didn't waste his time with excuses. We ate the labor cost for the rework. It hurt. But that's the cost of me not leading well on the front end.
+
+And then I sat down with my lead guy that evening, and I told him the truth. I said, "This one's on me. I should have walked the job with you. I should have made sure you were clear on the loading specs. I didn't set you up to succeed, and that's my failure as the owner."
+
+You know what happened? He got quiet for a second, and then he said, "No, I should have caught it. I got in a hurry. I didn't double-check the print."
+
+That's what Extreme Ownership does. When the leader owns it first, it creates space for everyone else to own their part, too. But if I'd blamed him first, he would have stayed defensive. Guaranteed.
+
+Here's the thing about running a small business — you are the top of the chain. There is no one above you to blame. And that is both terrifying and clarifying, because it means every single thing that happens is either something you did, or something you allowed, or something you failed to prevent.
+
+A job runs over budget? That's on me. Maybe I didn't bid it right. Maybe I didn't manage scope creep. Maybe I didn't train my guys to work efficiently. Maybe I let a client push changes without a change order because I didn't want the conflict. Whatever the reason, it's mine to own.
+
+A client is unhappy? That's on me. Maybe the work was fine but I didn't manage their expectations. Maybe I didn't communicate clearly on the front end. Maybe I didn't follow up.
+
+An apprentice keeps making the same mistakes? That's on me. Maybe I'm not training him well. Maybe I'm not giving him feedback in a way he can actually hear. Maybe I hired wrong to begin with.
+
+Cash flow is tight? That's on me. Maybe I took on jobs with payment terms I shouldn't have agreed to. Maybe I'm not staying on top of receivables. Maybe I bid three jobs too low in a row trying to win the work.
+
+Now, does that mean the apprentice has no responsibility to learn? Of course not. Does it mean the client gets to jerk me around without consequence? No. Does it mean I'm supposed to be a doormat? Absolutely not.
+
+Extreme Ownership is not about excusing bad behavior in other people. It's about refusing to use their bad behavior as my excuse for failing to lead well.
+
+Let me give you another example. I had a callback last year. Customer said we'd left a mess, paint scratched on a wall plate, some drywall dust they thought we should have cleaned up. Honestly, my first reaction was frustration, because we'd been really careful on that job, and this client had been kind of difficult from the start, and I was pretty sure the drywall dust was from another trade.
+
+But I sent one of my guys back out to take a look. And yeah, the wall plate was scratched — just a little, probably happened when we were tightening it down. And yeah, there was dust. Maybe it was ours, maybe it wasn't.
+
+I could have argued. I could have said, "Well, the drywall guys were in there after us, so that's probably on them." I could have pointed out that a tiny scratch on one plate in a whole house is pretty minor.
+
+Instead, I replaced the plate. I had my guy wipe down the area. I called the client and said, "We took care of it. Thanks for letting us know."
+
+Cost me maybe forty dollars in labor and materials, and maybe an hour of time. But that client has referred me twice since then. And more importantly, I slept fine that night, because I owned the outcome. I didn't make excuses. I didn't defend. I just handled it.
+
+Here's the hard part, though. The part the book talks about but that you don't really feel until you live it. Extreme Ownership is exhausting. Because when everything is on you, the weight of it can get heavy. There are nights when I lie awake thinking through every decision, every job, every conversation with a client or a crew member, wondering what I missed, what I could have done better, what's going to blow up tomorrow.
+
+And I think that's where a lot of people misunderstand the principle. They think Extreme Ownership means you're supposed to be perfect, or that you're supposed to carry everything alone, or that you never ask for help.
+
+That's not it.
+
+Extreme Ownership means you own the problem, and then you solve it. Sometimes solving it means you do the work yourself. Sometimes it means you get help. Sometimes it means you delegate. Sometimes it means you admit you don't know and you find someone who does.
+
+But you can't solve what you won't own.
+
+I've got a situation right now — I'm growing past the point where I can be on every job personally. Which is good, it means the business is healthy, but it also means I'm having to trust people to make decisions I used to make myself. And that is terrifying, because if they make a mistake, it's still on me. I'm still the one the client calls. I'm still the one who has to eat the cost if something goes sideways.
+
+So what do I do? I can either micromanage every job and burn myself out and strangle the growth of my people, or I can train well, communicate clearly, set expectations, check in regularly, and trust that I've built a culture where people know how to think and how to own their piece of the work.
+
+And when they screw up — because they will, because everyone does — I own it first. I take the hit with the client. I fix the problem. And then I sit down with the guy and we figure out together what went wrong and how we're going to do it differently next time.
+
+That's leadership. Not perfection. Not control. Ownership.
+
+One more thing, and then I'll land this. I was talking with another contractor a few months ago, and he was venting about a job that had gone bad. Client was unreasonable, he said. Plans were garbage. Inspector was on a power trip. GC was incompetent. He had a reason for everything.
+
+And I just listened, because I've been there, I've felt all of that. But what I heard underneath all the reasons was a guy who was stuck. Because if it's everyone else's fault, then there's nothing he can do. He's a victim of circumstances. He's powerless.
+
+Extreme Ownership is the opposite of that. It says: This is mine. Which means I have the power to change it.
+
+That's why it's hard. That's also why it's freeing.
+
+So here's what I want you to chew on tonight. Think about one thing in your world right now — your business, your job, your home, wherever — one result that you've been explaining instead of owning. Maybe it's a project that's behind. Maybe it's a relationship that's strained. Maybe it's a financial situation that's tighter than it should be. Maybe it's a habit you haven't kicked or a goal you haven't hit.
+
+And ask yourself: What's my story about why that is the way it is?
+
+And then ask: What part of that story is me avoiding ownership?
+
+Because I promise you, there's something in there you can own. There's some decision you made, some action you didn't take, some standard you didn't hold, some conversation you didn't have.
+
+Own it. Not out loud to anyone else, necessarily. Just own it to yourself first. And then ask: What am I going to do differently tomorrow?
+
+That's Extreme Ownership. It's not complicated. It's just hard.
+
+But it works.
+
+Alright. That's it for tonight. Thanks for listening. I'll see you tomorrow.
