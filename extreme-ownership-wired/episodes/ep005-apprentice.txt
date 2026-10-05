@@ -1,0 +1,137 @@
+So there we are, seven-fifteen in the morning, and Marcus — that's the lead on our crew, been doing this for eleven years, knows every code section by heart, can read a blueprint upside down while eating a breakfast burrito — Marcus is on the phone with the supplier trying to figure out why our wire order is forty percent short on a Friday, which, if you've ever been in this situation, you know that "forty percent short on a Friday" is basically the electrical equivalent of the ground opening up beneath your feet. And I'm standing there, brand new tool belt, pouches still stiff, not a single scratch on my lineman's pliers, thinking: okay, this is fine, someone senior is handling it, I'll just stay out of the way and wait to be told what to do.
+
+That was my first mistake. And I didn't even know it yet.
+
+What I didn't understand standing there watching Marcus pace back and forth in the driveway of this half-framed custom home — gorgeous lot, big GC, the kind of job where every outlet location is on a mood-board somewhere — is that the whole crew's performance that day was going to hinge less on Marcus's phone call and more on whether I, the apprentice, the guy with the new tool belt, understood what my job actually was. Not just my task list. My job. And I had absolutely no idea there was a difference.
+
+Let me back up a little and tell you how we got here.
+
+This was a rough-in job on a high-end custom build. Four thousand square feet, three floors, a finished basement the designer was calling a "entertainment suite," which in electrical terms means a whole secondary panel's worth of dedicated circuits, in-ceiling speakers, rack wiring, you name it. The GC was chasing framers — which if you haven't worked in residential construction, just know that when the framers are moving, everyone else is scrambling. You are never ahead of framers. You are always reacting to framers. Framers are a force of nature.
+
+We had a tight window. Get our rough-in done before the insulation crew showed up Monday. That was the whole mission. Get the boxes set, get the wire pulled, get it done clean so inspection goes smooth and nobody has to come back on a callback eating time we don't have.
+
+Our crew that week was Marcus, our lead; a journeyman named Danny who'd been with Horsepower about four years and had this very confident way of doing everything including sometimes confidently doing it wrong; and then me. Three-person crew. Marcus was coordinating, Danny was pulling wire on the upper floors, and I was supposed to be setting boxes on the main floor.
+
+Here's the thing about setting boxes. It's not glamorous work. You're measuring, you're marking, you're nailing or screwing boxes into studs, and you're doing it over and over again for hours. And there's a rhythm to it, a flow, and when you get into it, it actually goes pretty fast. But when you're new, you spend a lot of time second-guessing yourself. Is this height right? Did I read the blueprint right? Is this the right box for a GFCI? Should there be a mud ring here or not? You're checking and rechecking and you're slow, and you know you're slow, and that makes you nervous, and being nervous makes you slower.
+
+So by nine o'clock I've got maybe twelve boxes set and I should have twice that. And Marcus is off the phone now, but the wire situation is not resolved — the supplier can get us a partial delivery by early afternoon but it's going to be a weird, scrambled partial, not the clean organized pull-and-label approach we'd planned. Danny has adapted by starting on whatever wire is available and just... doing it Danny's way, which is efficient but not always documented, and Marcus is trying to re-sequence the whole day in his head.
+
+And nobody has checked in on me.
+
+Not because they don't care. Because they're busy. Because that's what a chaotic Friday looks like. And I'm on the main floor alone, and I've hit a moment where I'm genuinely not sure if the blueprint I'm looking at has been updated since the GC moved a doorway three days ago. There's a notation on the corner of the print — handwritten, dated, not initialed, just a little arrow pointing to the kitchen island with a question mark and the word "PENDING" written next to where three outlet locations should be.
+
+And I stopped. I stood there for probably ten minutes. I didn't go ask Marcus. I didn't flag it. I just... waited. I sort of hoped the problem would resolve itself. I set the boxes I was confident about and just skipped the kitchen island entirely, thinking I'd deal with it later, or someone would tell me, or it would become obvious.
+
+It did not become obvious. It became a problem.
+
+By noon, the wire delivery had shown up — partial, as promised, chaotic, as expected — and Marcus had managed to get us reorganized into something that resembled a plan. He walked the main floor to check my progress and got to the kitchen island and just stopped.
+
+"Where are the island circuits?"
+
+And I said — and I am not proud of this — "The print had a pending notation and I didn't want to set them wrong."
+
+And Marcus looked at me. Not angry. More like tired. And he said, "You've been avoiding this for two hours?"
+
+And the thing is, he wasn't wrong. I had been avoiding it. I'd been waiting for certainty to arrive from outside me rather than doing what I actually could have done — which was walk upstairs, interrupt Marcus for sixty seconds, show him the notation, and get a decision. Sixty seconds of slightly uncomfortable interruption versus two hours of stalled progress and now a scramble to get those boxes set before insulation showed up Monday.
+
+The island circuits got set. We made it work. Inspection passed. But that project — the first real rough-in project I was on start to finish — taught me something that took me a while to actually name. Because at the time I thought the lesson was "ask more questions." But that's not quite it. That's the surface lesson. The real lesson was sitting inside a book I hadn't read yet.
+
+And here's where Extreme Ownership comes in.
+
+The chapter Jocko and Leif lay out — No Bad Teams, Only Bad Leaders — it sounds like it's about leaders when you first read it. And it is. But it's also completely about you, even if you're the apprentice. Maybe especially if you're the apprentice.
+
+The story they tell in the book, and I'll give you the short version, is about a Navy SEAL training exercise where one boat crew keeps winning and one boat crew keeps losing. Same conditions, same beach, same water, same evolution. One crew crushes it, one crew can't get it together. And someone makes the obvious suggestion: what if you swap the leaders? Put the winning crew's leader on the losing crew. See what happens.
+
+And what happens — you can probably guess — is the losing crew starts winning. Because the leader changed. Not the team. The leader.
+
+Now here's the part that hits different when you hear it from the apprentice seat. The principle is usually taught top-down. Leaders take ownership of their team's performance. Leaders don't blame the crew, don't blame the conditions, don't blame the other trades. If your crew is underperforming, look in the mirror. That's the message for the person running the job.
+
+But the thing is — leadership isn't just a title. Leadership is a behavior. And apprentices exhibit leadership behavior every single day, even when they don't realize it, even when nobody's watching, even when they're the least experienced person on the site.
+
+When I stood in that kitchen for two hours not going to ask Marcus about those island circuits, I wasn't just being passive. I was actively failing to lead the one thing I was supposed to be leading — my own section of the job. I was the "leader" of those twelve boxes. Nobody else was responsible for them. And I let my section of the job go sideways by waiting for conditions to improve instead of taking ownership of the uncertainty.
+
+That's the quiet version of bad leadership that apprentices fall into constantly. It's not dramatic. You're not yelling at anyone, you're not throwing anyone under the bus. You're just... waiting. Hoping something resolves itself. Avoiding the slightly uncomfortable moment of admitting you don't know something or need a decision made.
+
+And Jocko and Leif's point — the one that takes a minute to land — is that the quality of a team is not a fixed thing. It's not set by who's on the crew. It's continuously set by the leadership behaviors happening at every level. Marcus was the lead. But I was also leading something. And my leadership of that kitchen island was terrible.
+
+Now here's the flip side, because this principle cuts both ways and it's worth saying clearly: if you're an apprentice on a crew where the lead is consistently not giving you information you need, not checking in, not setting clear expectations — that's a leadership failure too, but it's not yours. The principle puts the weight on whoever is leading the overall team, and that's the journeyman or lead on a given day. You can only own what you can control. What you can control is your section, your communication, your willingness to flag uncertainty rather than hide it.
+
+The mistake is thinking ownership means suffering in silence. It doesn't. Ownership means actively doing something — even if that something is walking upstairs and saying "hey, quick question, kitchen island, pending notation, what do you want me to do?" That's ownership. That's leadership. It costs you sixty seconds and it saves hours.
+
+So what does this actually look like for a Horsepower Electric apprentice this week? Not in the abstract, but on the ground, Monday morning, tool belt on, standing in a framed house? Let's get specific.
+
+First thing. Own your section before anyone has to check on it. When Marcus or whatever journeyman or lead you're working under gives you an assignment — a floor, a room, a task list — your job is not to complete the assigned tasks and stop. Your job is to complete the assigned tasks, catch anything that looks off before it becomes a problem, and report back before you're asked. That last part is the leadership behavior. You don't wait for the check-in. You initiate the update. "Hey, I've got the bedroom circuits done, hit a question on the closet — do you want a ceiling box for a future fan or just a switch leg for a fixture?" That question, asked proactively, takes fifteen seconds. Left unasked, it turns into a callback where someone's cutting drywall open six months from now.
+
+Second thing. Stop treating uncertainty as a reason to pause. On a high-end rough-in job, the uncertainty is constant. Plans change, notations appear, GCs revise scope. Your job is not to wait for certainty. Your job is to get clarity. There's a big difference. Waiting for certainty is passive. You're hoping the problem goes away. Getting clarity is active. You're hunting down the person with the answer and getting a decision made. If Marcus is on the phone, you wait until he's off and then you flag it — don't interrupt a supplier call over a box height question. But you also don't let two hours pass without saying something. Figure out what can wait and what can't, and treat "I don't know" as a trigger to find someone who does, not a reason to park the question.
+
+Third thing. Pay attention to how the crew is doing, not just how you're doing. This one sounds weird for an apprentice but hear it out. If you're on the main floor and you notice Danny upstairs is getting buried — boxes stacked up wrong, wire running to locations that don't match the plan — your instinct might be "that's not my problem, I've got my own work to do." And you're right that it's not your primary responsibility. But if you finish your section early and you can see the crew is behind overall, your question shouldn't be "can I take a break?" Your question should be "what needs hands?" That's not doing Danny's job for him. That's being the kind of apprentice who makes every section of the job better because you're on it. Leaders — even apprentice-level leaders — look past their own assignment and see the whole job.
+
+Fourth thing — and this is the one nobody likes to hear — own your mistakes out loud, in the moment, before they compound. The kitchen island situation I described? The version where I handle it with ownership is this: I find the pending notation at nine-fifteen. I walk upstairs by nine-twenty. "Marcus, quick question, pending notation on the kitchen island, three outlet locations, what do you want me to do?" Marcus says "skip it for now, I'll get clarification from the GC." I document that in my notes — or on the print — and I move on. Two minutes. Done. Instead I let it go two hours, which meant two hours of Marcus not knowing his main floor had a gap, two hours where if he'd been coordinating around my progress he'd have had a false picture of where we actually were. Owning it early is almost never as painful as the conversation you end up having when it compounds.
+
+None of these are complicated. They're not about having years of experience. They're about deciding, on every job, that you're going to lead your section the way you'd want your lead to lead the whole job — proactively, honestly, and without waiting for someone else to notice the problem first.
+
+Alright. Let's head over to the other side of the fence — and I mean that literally. Wells Cutting Edge, residential landscaping, the crews who are turning backyards into something a homeowner will look at for the next twenty years. Same principle, same apprentice perspective, completely different story. Let's go.
+
+It's a Wednesday morning, seven o'clock, and Caleb — the landscape lead on this crew, a guy who can read a grading plan the way other people read a text message, who knows more about drainage than most civil engineers you'd meet at a party — Caleb is standing at the back corner of a property staring at a set of pavers that went down yesterday, and the look on his face is not a good look.
+
+I am standing five feet to his left, and I have been on this crew for three months. I have learned how to operate a plate compactor, how to lay a soldier course, how to set a drainage channel, how to install a pop-up emitter, and how to pretend I understand a grading plan when someone's explaining it to me. I have not yet learned how to tell Caleb that yesterday, while he was off-site dealing with a plant order issue, I noticed something about the paver pattern that didn't look right to me, and I said nothing, because I was pretty sure I was wrong, and I didn't want to be the new guy who thinks he knows better.
+
+I was not wrong.
+
+Let me set the scene. This is a big job. Custom home, maybe a year in the making, an outdoor living space that the homeowner has been planning since before they broke ground on the house itself. We're talking a full paver patio — several thousand square feet — with a built-in kitchen zone, a fire pit area, a pool surround, and a permeable paver section along the side yard that connects to a drainage system that Caleb designed specifically to handle the slope toward the back of the property. The HOA has strict requirements on runoff and they've made it extremely clear that any water management on this property has to stay on the property. Which, given the grade, is not a trivial requirement.
+
+The paver crew — a sub that Wells uses on large installs — had come in Tuesday to start laying field pavers in the main patio section while Caleb was off-site dealing with a plant species mix-up that I will not get into because it involved a very specific type of ornamental grass and a supplier who apparently did not understand the difference between two cultivars that look nearly identical but behave very differently once they're in the ground. The point is, Caleb was not on-site Tuesday afternoon.
+
+I was on-site. I was doing prep work on the planting beds along the fence line — good task, straightforward, I can handle it. The paver crew was working about fifty feet away and I was keeping half an eye on their progress the way you do when you're new and you're curious and you like watching things get built.
+
+And somewhere around two in the afternoon, I noticed something.
+
+The paver crew was making good progress. Efficient. These guys do this every day, fast and confident, and there's something satisfying about watching pavers go down. But the pattern — the running bond pattern that was spec'd for the main field — looked off to me. Not the laying itself. The direction. It seemed to me like the pattern was running perpendicular to what the plan showed. And I remember looking at the plan, which I had a copy of because Caleb had given everyone on the crew a laminated set — good leader move, by the way — and looking at the plan and then looking at the pavers and thinking: that doesn't match.
+
+And then I thought: but these guys do this every day. I've been doing this for three months. I'm probably reading the plan wrong. The plan's got a north arrow and I might have the orientation mixed up. And also the crew lead on the paver sub is a guy named Ramon, and Ramon is confident and experienced and he's done a lot of jobs with Wells and he's not going to make a basic directional error.
+
+So I did not say anything.
+
+I went back to my planting beds. Ramon and his crew finished the day, laid maybe six hundred square feet of field pavers, packed up, left.
+
+Wednesday morning, Caleb came back on-site, walked the patio, and stood in that back corner with the look on his face I described.
+
+The pattern was wrong. Running perpendicular to spec. Six hundred square feet of field pavers, which on a permeable paver section is not just a visual problem — it affects how the joints align with the drainage aggregate below, which affects permeability, which in this case directly affects whether the water management system performs the way Caleb designed it to perform, which affects HOA compliance.
+
+He did not yell. Caleb is not a yeller. He asked, very calmly, "Did anyone notice this yesterday?"
+
+I said nothing for about four seconds that felt like four minutes. And then I said, "I thought I noticed it might be off but I wasn't sure I was reading the plan right."
+
+Caleb looked at me. Same energy as Marcus with the kitchen island, honestly. Not angry. Just tired. And he said, "You had the plan. You could have called me."
+
+And he was right. I had his number. I had the plan. I had eyes on the site. And I had talked myself out of using any of those things because I'd decided, on behalf of myself and the crew and the whole job, that I was probably wrong and therefore it wasn't worth saying anything.
+
+The pavers had to come up. Not all of them — Ramon and his crew, to their credit, got back out there quickly and reset the field. It cost us a day and a half and it cost a conversation between Caleb and the sub that nobody enjoyed. The HOA timeline got tight. The homeowner, who was extremely invested in this project — and I mean this person had a binder with printed photos from landscape design magazines organized by zone — the homeowner had to be told there was a delay.
+
+And the maddening thing is that the fix, in the moment, would have been a phone call. "Hey Caleb, quick question, the pavers look like they might be going perpendicular to spec, can you look at these two photos?" That's it. Ramon and his crew would have stopped, checked, corrected, and we'd have lost twenty minutes at most. Instead we lost a day and a half, a stressful HOA conversation, and one laminated plan that Caleb very quietly rolled up and put back in his truck without saying anything.
+
+So that's my story. And it's the same story as the kitchen island, structurally. New person, uncertainty, decision to stay quiet rather than escalate, compound consequence. Different trade, different stakes, same failure mode. And the principle is identical.
+
+No bad teams, only bad leaders. Even when the leader is a three-month apprentice standing in a planting bed with a laminated plan in his back pocket.
+
+Let's talk about what this looks like differently for a Wells Cutting Edge apprentice, because landscaping has its own texture and the behaviors that come out of this principle look a little different out here in the field.
+
+First one. The laminated plan is not a reference document. It's a responsibility. When Caleb gave everyone on the crew a copy of the plan — that's not a courtesy, that's not "here's something to look at if you're curious." That's him distributing ownership. Every person holding that plan is now partially responsible for what gets built matching what's on it. If you're on-site and you have the plan and you see something that might not match, your job is not to assume someone else will catch it. Your job is to flag it. Even if you're wrong. Even if you feel dumb doing it. A quick call or text that turns out to be a false alarm is a thousand times better than six hundred square feet of wrong-direction pavers. Get comfortable saying "hey, this might be nothing, but..." That phrase is free. Use it constantly.
+
+Second one. Don't disqualify your own observations because you're new. This is the specific trap I fell into and I see new people on landscaping crews fall into it constantly. You notice something. You're new. You assume the experienced people have already noticed it and have already decided it's fine. So you don't say anything. But here's the reality: experienced people are busy, they're solving other problems, they're off-site dealing with a plant cultivar crisis, they don't have eyes everywhere. Your fresh eyes are actually an asset. You haven't been doing this long enough to develop blind spots. When you notice something that doesn't look right, that observation has value — even if you're uncertain, even if you're probably wrong. The correct move is always to surface it. You might be right. And being right when it matters is worth a hundred false alarms.
+
+Third one. Know what Caleb's off-site. Know the plan. Know who's on-site. This sounds like just being organized but it's actually a leadership behavior. When your lead is going to be off-site, before they leave, understand clearly what work is happening while they're gone, who's doing it, and what could go wrong. Not so you can manage the sub crew — that's not your job. But so you can be an informed set of eyes. If Ramon and his crew are coming in Tuesday afternoon and I know Caleb won't be there and I know the paver pattern direction is critical to the drainage design — because Caleb told me that in the morning walkthrough, it just didn't connect for me in the moment — then I'm watching that crew with the plan in my hand from the start. Not hovering, not second-guessing every move, just paying attention in an informed way. Leadership from the apprentice level often looks like paying better attention than you're required to.
+
+Fourth one. When you miss something, say so clearly and move toward the fix. When Caleb asked if anyone noticed the pattern Wednesday morning, the version of me that handles this with ownership doesn't wait four seconds and mumble something about not being sure. That version of me says "yes, I thought I saw it going perpendicular and I should have called you — what do you need from me right now to fix it?" That's it. No elaborate explanation, no self-defense, no lengthy apology. Acknowledge, own it, pivot to the fix. Every minute spent explaining why you didn't do the thing is a minute not spent fixing the thing. Caleb doesn't need a confession. He needs the problem solved and he needs to know that next time, you'll call.
+
+And one bonus thing, because landscaping specifically has this dynamic that electrical work has a little less of — you're often working with subs and other crews who aren't your direct crew. Pool contractors, outdoor lighting crews, paver subs. And as the apprentice, you might feel like you have zero standing to say anything to those crews. You're not their boss, you're not even really a senior person on your own crew. But you have the plan, and you have eyes. You don't need standing to ask a question. "Hey Ramon, quick question, just want to make sure I'm reading this right — is this section running this direction or that direction?" That's not challenging Ramon's expertise. That's a new person asking a question. People rarely take that badly. And if it saves a day and a half of rework, Ramon's going to be grateful you asked too.
+
+Here's where both stories end up, and it's the same place.
+
+Whether you're an apprentice at Horsepower Electric standing on a rough-in floor with a pending notation on a kitchen island, or an apprentice at Wells Cutting Edge standing in a planting bed watching pavers go down in the wrong direction — you're both doing the same thing when you go quiet. You're deciding that your uncertainty, your newness, your worry about being wrong, is more important than the job getting done right. And that's a leadership failure. Not because you're in charge of anyone. But because you're in charge of yourself, and of your section, and of your eyes and your voice and the laminated plan in your back pocket.
+
+No bad teams, only bad leaders. The books says it about the people running the crew. But it's also said to you, directly, on the day you start. You are leading something. Even on day one. You're leading your own set of tasks, your own corner of the job, your own willingness to speak up or stay quiet. And the quality of that leadership — right there at the bottom of the org chart — adds up across every crew, every day, to determine whether the job goes right or goes sideways.
+
+Marcus made it work despite my quiet. Caleb made it work despite mine. Good leads can compensate for passive apprentices. But great crews don't need compensating for. Great crews are full of people at every level who decided that uncertainty is a reason to communicate, not a reason to wait.
+
+Don't wait.

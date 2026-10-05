@@ -38,5 +38,15 @@
     "file_size_bytes": 5756205,
     "duration_seconds": 1438,
     "mp3_filename": "ep004-foreman.mp3"
+  },
+  {
+    "guid": "https://heberhaws88.github.io/Extreme-Ownership/extreme-ownership-wired/episodes/ep005-apprentice",
+    "title": "Ep. 005 — No Bad Teams, Only Bad Leaders (Apprentice)",
+    "description": "This week's Extreme Ownership principle applied to both Horsepower Electric and Wells Cutting Edge, through the Apprentice perspective.",
+    "pub_date": "2026-10-05T19:52:34.740486+00:00",
+    "audio_url": "https://heberhaws88.github.io/Extreme-Ownership/extreme-ownership-wired/episodes/ep005-apprentice.mp3",
+    "file_size_bytes": 6414573,
+    "duration_seconds": 1603,
+    "mp3_filename": "ep005-apprentice.mp3"
   }
 ]
