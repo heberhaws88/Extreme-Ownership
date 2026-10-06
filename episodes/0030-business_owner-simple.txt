@@ -1,0 +1,83 @@
+Good evening. 
+
+It's a little after seven. I just got home. My youngest was already in bed — he goes down early — and my oldest two were finishing homework at the kitchen table. My wife asked how the day went, and I told her the truth. We lost money today. Not a catastrophic amount, but enough that it stings. A commercial service call that should have taken my lead guy three hours turned into seven, and by the time we got the lights back on and the customer happy, I'd burned a day's labor with nothing left to bill. The kicker? The job itself wasn't complicated. We made it complicated.
+
+That's what I want to talk about tonight. Chapter six of Extreme Ownership, the book by Jocko Willink and Leif Babin. The principle is called Simple. The idea is this: plans, orders, and instructions have to be clear and stripped down to what actually matters, because complexity — even well-intentioned complexity — breeds confusion, and confusion breeds failure, especially under pressure. If the people executing the plan can't understand it quickly and completely, the plan is already broken.
+
+And listen, I know that sounds obvious. Of course you want to be clear. Of course you don't want to confuse people. But here's the thing — most of us don't set out to make things complicated. We do it by accident. We do it because we're trying to be thorough, or we're trying to cover every possible scenario, or we're anxious that if we don't spell out every detail someone's going to miss something important. And what happens is we bury the actual priority under a pile of contingencies and clarifications and nice-to-knows, and the guy on the other end — the one who's supposed to execute — walks away more confused than if we'd said nothing at all.
+
+I've done this more times than I can count. I've sent apprentices to job sites with instructions that made perfect sense in my head and watch them call me two hours later because they're stuck. I've written up scope-of-work documents that were so detailed the client's eyes glazed over and they signed without reading them, which helped nobody when questions came up later. I've tried to explain a troubleshooting sequence to a guy on my crew while we're both standing in a mechanical room with a panicked facility manager breathing down our necks, and I've watched him nod like he's got it when I can see in his eyes he absolutely does not.
+
+And every single time, the fault is mine. Because if they didn't understand, I didn't make it simple enough.
+
+Now before I get into tonight's story, I want to take a minute and connect this to following Jesus Christ, because that's the foundation under everything else I do, even on a night where the lens is the business. 
+
+One of the things that strikes me about the gospel — about the way Christ taught — is how simple He made it, especially when it mattered most. Love God. Love your neighbor. Repent. Come unto me. These aren't complex theological propositions. They're clear, short, actionable. A child can understand them. And yet they contain everything.
+
+When a lawyer tried to trap Him with a question about which commandment was greatest, He didn't launch into a detailed exposition of Mosaic law. He said: love the Lord your God with all your heart, soul, and mind, and love your neighbor as yourself. Two sentences. Everything else hangs on that. 
+
+And I think about that when I read chapter six of Extreme Ownership, because what Jocko and Leif are describing in a military and business context is something the Savior understood perfectly in a spiritual one. People under pressure — and we are all under pressure, all the time, whether it's combat or a job site or just the weight of mortal life — people under pressure need clarity. They need to know what matters most. They need to be able to act without having to decode seventeen layers of nuance first.
+
+That doesn't mean the gospel is shallow. It's not. There's depth and complexity there that I'll spend the rest of my life exploring. But the core is simple, and it stays simple, and when I'm struggling or confused or overwhelmed the answer is almost always to go back to that simplicity. What did Christ actually say? What did He actually ask me to do?
+
+I fail at this constantly. I complicate my own discipleship. I get tangled up in questions that don't matter as much as I think they do. I miss the simple, clear instruction right in front of me because I'm trying to optimize some edge case. And the more I recognize that pattern in my spiritual life, the more I see it everywhere else. Including the business.
+
+Alright, let's talk about the job that cost me money today.
+
+So here's the setup. Three weeks ago I bid a service call for a retail client — small chain, local guy, owns four locations. This particular store had an issue with some of their overhead lighting. Intermittent. Flickering in one section, going dark in another, but not consistently. The property manager wanted it fixed, obviously, and he wanted a flat-rate bid, not time and materials, because his boss doesn't like open-ended invoices.
+
+I walked the site. Looked at the panels, looked at the fixtures, checked the obvious stuff. My gut said it was probably a neutral issue, maybe a bad connection upstream in one of the junction boxes, but I couldn't pin it down in the twenty minutes I had on the walk-through. So I wrote up a bid that basically said: we'll troubleshoot and repair the lighting issue, flat rate, and I padded the labor estimate to cover the troubleshooting time because I knew it might take a while to track down.
+
+They accepted. I scheduled my lead guy — good electrician, been with me four years, knows his stuff — and I sent him out this morning with one of the newer apprentices. And this is where I screwed up.
+
+Instead of just saying, "Find the bad neutral and fix it," which is what I should have said, I sent him a text the night before with a whole list of things to check. I was trying to be helpful. I was trying to give him a head start. So I said: check the panel neutral terminations, check the branch circuits, check the fixture connections, inspect the junction boxes in the ceiling grid, test for voltage drop, check for backstabbed neutrals in any devices, and if you can't find it in the first two hours call me and we'll figure out next steps.
+
+You see what I did there? I gave him six different things to investigate, with no clear priority, and a vague bailout clause at the end. And because I was trying to be thorough, I actually made his job harder, because now instead of just following a logical troubleshooting sequence he's trying to remember my list and check off all the boxes, and he's second-guessing himself the whole time about whether he's doing it in the right order.
+
+He called me at noon. He'd been there three and a half hours. He'd checked most of the stuff on my list. Hadn't found the problem yet. The apprentice was getting frustrated. The store manager was asking when they'd be done because they had a delivery coming and the truck needed to park where our van was. And I could hear in his voice that he was rattled, which is not like him.
+
+I asked him what he'd tried. He walked me through it. And here's the thing — he'd done good work. Thorough, methodical, checked all the right stuff. But he'd done it in a scattered way, bouncing around the list, because that's how I'd given it to him. He hadn't started with the simplest, most likely culprit and worked systematically outward. He'd started with everything at once.
+
+So I told him — and I should have told him this from the beginning — start at the panel. Pull the neutral bar cover. Physically check every neutral termination. Don't just look at it, touch it, wiggle it, see if anything's loose. If that's good, work your way out one branch at a time until you find the bad connection. Forget the list. Just do that.
+
+He found it in forty minutes. Loose neutral in the panel, just like I thought. Tightened it down, checked the loads, everything came back solid. Problem solved.
+
+But we were already six hours deep on a job I bid for three and a half, which means I paid my lead guy and my apprentice for two and a half hours of work that didn't need to happen. And it didn't need to happen because I didn't make the plan simple.
+
+Now, let me be clear. I'm not blaming my lead guy. He did what I asked him to do. He followed my instructions. The fact that my instructions were a confused mess is on me. That's what Extreme Ownership means. I'm the one who owns an electrical contracting business. I'm the one who's supposed to know how to troubleshoot a neutral issue. I'm the one who sent a good electrician into a job with a plan that was too complicated to execute cleanly. I created the confusion. I own the loss.
+
+And here's the other piece. This isn't the first time I've done this. I do it all the time. I do it because I know a lot about electrical work, and when I know a lot about something it's really tempting to try to transfer all of that knowledge in one shot. I want my guys to see the whole picture the way I see it. I want them to understand all the variables. And what ends up happening is I dump information on them when what they actually need is clarity.
+
+Simple doesn't mean stupid. It doesn't mean I'm dumbing anything down or assuming my guys can't handle complexity. It means I'm taking responsibility for identifying the one thing that matters most in this situation, right now, and making sure that's what they walk away with. Everything else is context. And context is helpful, but only if it doesn't bury the main point.
+
+Jocko and Leif talk about this in the book. They say that leaders have to be clear and concise when they communicate their plan. They say that if your subordinates don't understand the plan, it's not their fault, it's yours. And they talk about how in combat, when things get chaotic and loud and scary, the only plans that survive are the ones that were simple enough to remember and simple enough to execute under pressure.
+
+I'm not in combat. But a service call where the clock is running and the customer is impatient and something isn't working the way it's supposed to — that's pressure. Maybe not life-and-death pressure, but it's enough. And the guys executing the plan are tired, they're thinking about three other jobs, they've got a person looking over their shoulder asking questions. If I hand them a plan that requires them to stop and parse it and remember which of the six things I mentioned was actually the priority, I've already set them up to waste time.
+
+So what do I do with this?
+
+Well, first, I apologized to my lead guy. Not in a groveling way, just straight. I told him I gave him a bad plan and that's on me. He appreciated it. And then I told him that from now on, when I send him to a troubleshooting call, I'm going to give him one clear starting point and one decision tree. Not a list. A sequence. Start here. If that doesn't solve it, go here. If that doesn't solve it, call me. Simple.
+
+Second, I'm looking at everywhere else in the business where I'm probably doing the same thing. Job packets. Bid documents. The way I train apprentices. The way I explain a change order to a client. I'm asking myself: is this as simple as it can be? Have I made the priority clear, or have I buried it under a bunch of stuff that feels important but actually isn't?
+
+And here's a concrete thing I'm doing starting tomorrow. When I send someone to a job, I'm writing down the objective in one sentence. Not a paragraph. One sentence. What does success look like when you leave this site? If I can't say it in one sentence, the plan isn't simple enough yet, and I need to keep working on it until it is.
+
+Because here's the reality. I can't be on every job anymore. The business is too big for that. I've got multiple crews running on any given day. If I want this thing to actually function without me standing over everyone's shoulder all the time, I have to get better at making the plan simple enough that someone else can execute it without needing me to clarify or troubleshoot or handhold. And that starts with me taking responsibility for how I communicate.
+
+This is hard for me, honestly. I like the complexity. I like knowing all the variables. I like feeling like I've thought through every angle. But liking it doesn't make it effective. And Extreme Ownership isn't about what makes me feel smart or thorough. It's about what actually works. It's about taking ownership of the outcome, and if the outcome is confusion and wasted time, then I have to own the fact that I caused that, and I have to do better.
+
+So here's what I want you to think about, whether you run a business or you're in the Guard or you're leading a family or you're just trying to get through your own day without dropping the ball. 
+
+What's one plan, one instruction, one expectation you've made needlessly complicated? 
+
+Maybe it's the way you're explaining a task to someone who works for you. Maybe it's the way you're organizing a project at home. Maybe it's the way you're trying to teach your kid how to do something and you keep adding more steps because you want them to understand the why behind it, and now they're overwhelmed and they've stopped listening.
+
+Strip it down. Find the one thing that actually matters. Say that. Make sure they've got that. Everything else can come later, or it can not come at all if it's not actually essential.
+
+And here's the test: if you had to explain today's priority in one sentence to someone who's tired and distracted, could you? If not, it's not simple enough yet.
+
+Alright. That's it for tonight. 
+
+I'm going to go kiss my kids goodnight and sit down with my wife and try to explain this in one sentence. Which is probably going to be harder than it sounds. But that's the work.
+
+Talk to you tomorrow.
