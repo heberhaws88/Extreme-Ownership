@@ -1,0 +1,79 @@
+Good evening.
+
+So this afternoon I'm standing in the supply house parking lot, phone in one hand, job folder in the other, and in the space of about ninety seconds I get hit with three separate fires. My foreman texts me that the inspector red-tagged the rough-in we did yesterday on a commercial tenant improvement — something about box fill, which makes no sense because I know we calculated that right. Then my wife calls to tell me the credit card got declined at the grocery store, which is impossible because I know there's room on that card. And before I can even process that, one of my apprentices calls from a service call saying the homeowner is refusing to let him leave until I personally come out there and explain why we can't run a two-twenty circuit off her existing panel without an upgrade. All of this in ninety seconds. And I'm just standing there in a supply house parking lot with my truck half-loaded, and my brain is trying to run in three directions at once.
+
+You know that feeling. Maybe you don't run an electrical business, but you know what it's like when everything hits at the same time and your head starts spinning and you can feel yourself about to make bad decisions just because you're reacting instead of thinking.
+
+Tonight I want to talk about chapter seven of Extreme Ownership by Jocko Willink and Leif Babin — Prioritize and Execute. The core idea is this: when multiple problems come at you simultaneously, you have to force yourself to step back, identify the single highest priority, execute on that one thing, and then move to the next. Not try to solve everything at once. Not let the loudest problem convince you it's the most important. You have to relentlessly prioritize, and then you have to execute in order.
+
+It sounds obvious when you say it like that. But in the moment, when the fires are burning and people are waiting on you and you can feel the pressure mounting, your instinct is to thrash. To try to put out all the fires at the same time. And that's exactly when you make it worse.
+
+Now before I get into what happened in that parking lot, I need to take a minute here and connect this to following Jesus Christ, because even on a night when we're talking business, that's the foundation under everything else for me.
+
+There's a moment in the gospels where Jesus is on his way to heal a synagogue leader's daughter who's dying. The man's desperate, the clock is ticking, and Jesus is moving toward the house. But then a woman who's been sick for twelve years reaches out in the crowd and touches the edge of his robe, and Jesus stops. He stops the urgent mission to deal with what just came up. And the disciples are probably losing their minds, because they know that little girl is dying and every second counts. But Jesus knows something they don't — he knows what the actual priority is in that moment. He heals the woman, he speaks to her, he doesn't rush past her just because there's something else that feels more urgent. And then he goes and raises the girl from the dead anyway. He prioritized. He executed. He didn't thrash.
+
+That's convicting to me, because my default is to thrash. My default is to let urgency dictate priority, and those are not the same thing. The gospel is full of moments where Jesus is getting pulled in multiple directions and he simply refuses to be hurried into the wrong priority. He goes off alone to pray when the crowds want him to stay and perform. He spends time with children when the disciples want to keep the schedule moving. He's relentlessly focused on what the Father has actually put in front of him, not just what's loudest.
+
+And I think part of walking with him is learning to do the same. To stop. To pray. To ask what actually matters most right now. Not what's screaming the loudest, but what actually matters. That's prioritize and execute in a kingdom framework. And it's harder than it sounds.
+
+Alright. Back to the parking lot.
+
+So I've got three problems in ninety seconds. Failed inspection, declined credit card, angry homeowner with my apprentice trapped in her house. And I can feel my chest tightening up because I want to solve all three right now, immediately, and I know I can't.
+
+Here's what I did wrong first. I called the credit card company. While I'm on hold I'm texting my foreman about the inspection, and I'm trying to look up the homeowner's address so I can maybe swing by there next, and I am doing none of these things well. The credit card company puts me through to fraud detection, and I'm barely listening because I'm reading my foreman's texts, and the guy asks me to verify a charge and I say yes to something I shouldn't have because I'm not paying attention. Then I have to call back. Meanwhile my foreman is waiting on me to tell him what to do about the inspector, my apprentice is still stuck at that house, and I've just wasted ten minutes and solved exactly nothing.
+
+That's what it looks like when you don't prioritize and execute. You scatter. You half-do three things badly instead of fully doing one thing right. And the worst part is it feels like you're being productive because you're busy, you're moving, you're multitasking — but you're not actually executing anything.
+
+So I made myself stop. I put the phone down. I stood there in the parking lot and I made myself ask the question: what is the highest priority right now? Not what's most annoying, not what's easiest, not what I feel like doing. What actually has to get solved first?
+
+The inspection is a problem, but it's not going to get worse in the next hour. The job's red-tagged, the inspector's gone for the day, we're not pouring concrete over it or anything — it'll keep.
+
+The credit card is embarrassing and stressful, but my wife is a grown woman, she's got a debit card, she'll figure it out. We can deal with that tonight. It's not the fire I have to put out right this second.
+
+But my apprentice trapped at a house with an angry homeowner — that one's live. That one can go bad in a bunch of different ways. He's young, he doesn't have the experience to de-escalate this on his own, and if I leave him hanging he's either going to say something that makes it worse or he's going to fold and promise her something I can't deliver. Either way I'm looking at a client complaint, maybe a bad review, maybe a kid who loses confidence. That's the priority.
+
+So I called him back. I told him to put the homeowner on the phone. I talked to her. Turned out she'd gotten some advice from her brother-in-law who's "done a lot of wiring" and now she was convinced we were trying to upsell her on a panel upgrade she didn't need. I didn't argue with her, I didn't get defensive, I just asked if I could come by in forty-five minutes and walk her through it in person. She said yes. I told my apprentice to pack up, be polite, tell her I'm on my way, and get out of there. 
+
+Crisis one: contained.
+
+Then I called my foreman about the inspection. I asked him to send me a picture of the box in question and the inspector's notes. He did. I looked at it. Took me thirty seconds to see the problem — the inspector was right, we'd miscounted the neutrals, the box was overfilled. Annoying, but straightforward. I told him to pull the circuit, swap in a bigger box, text me when it's done and we'll call for a re-inspect in the morning. He's a good foreman, he doesn't need me to hold his hand, he just needed a decision. 
+
+Crisis two: handled.
+
+Then I called my wife. Turned out the fraud alert was from a charge at a gas station two states away — someone skimmed the card. She'd already called the bank, they were overnighting a new card, she'd switched to the debit card and finished the shopping. She was fine. She just wanted to let me know. I apologized for not picking up sooner. She laughed and told me to breathe. 
+
+Crisis three: never really was one.
+
+Forty-five minutes later I'm sitting at the homeowner's kitchen table with a napkin and a pen, drawing out her panel, showing her the math, explaining why the two-twenty circuit she wants is going to pull more than her service can handle. I'm calm. I'm not rushed. I walk her through it until she gets it. She apologizes for being short with my apprentice. She signs off on the upgrade. I thank her for her patience. I leave.
+
+Whole thing took fifteen minutes, face to face.
+
+If I'd tried to do all three at once, I'd have done all three badly. I'd have given the homeowner half my attention on the phone while I was texting my foreman and arguing with the credit card company, and she'd have felt it, and I'd have lost the job. Instead, I prioritized, and I executed.
+
+Now here's the thing. This is a small example. Three problems in a parking lot on a random Tuesday. But the principle scales. I've had weeks where I'm trying to chase new commercial contracts, manage a job that's bleeding money because I bid it wrong, deal with a key guy who's talking about leaving, and keep the pipeline full enough that we don't run out of work in two months. And the temptation is the same — try to do all of it at once, every day, all the time. Scatter your attention. React to whatever's in front of you. Let the calendar and the phone and the loudest voice dictate your priorities.
+
+What I've learned, slowly and painfully, is that I have to make myself stop and ask: what is the highest priority right now? This week, what's the one thing that, if I don't solve it, makes everything else irrelevant or impossible?
+
+A few months ago the answer was cash flow. We had work, we had a good crew, but we had sixty days' worth of receivables outstanding and payroll was coming up faster than the checks were clearing. I could have spent that time bidding new jobs or fixing the truck or reorganizing the shop, and all of those things needed doing, but none of them mattered if I couldn't make payroll. So I spent a week doing nothing but collections. Calling clients, sending reminders, following up on retainage, tightening up the billing process so we didn't get into that hole again. It wasn't fun. It wasn't the work I wanted to do. But it was the priority. And once we got current, once cash flow stabilized, then I could move to the next thing.
+
+Prioritize and execute.
+
+Here's what I'm still learning. The hardest part isn't identifying the priority. Most of the time, if you're honest with yourself, you know what the real priority is. The hardest part is accepting that everything else has to wait. That you can't do it all. That some things are going to sit undone while you execute on the one thing that actually matters. That's the discipline. That's the part that goes against every instinct, especially if you're wired like me and you want to fix everything right now.
+
+But you can't. You can only do one thing at a time. And if you try to do three things at once, you'll do all three poorly.
+
+The other thing I'm learning is that priority shifts. What was the highest priority yesterday might not be the highest priority today. You have to keep asking the question. You have to keep reassessing. The job that's on fire today might be fine tomorrow, and something else might move to the top. That's not weakness, that's reality. Prioritize and execute doesn't mean you pick one thing and ignore everything else forever. It means you execute on the highest priority until it's handled or stable, and then you move to the next one. You keep cycling. You keep reassessing. But you never, ever try to do all of it at once.
+
+And here's where it connects back to faith for me. I think a lot of the stress I carry in this business comes from trying to be God. Trying to hold all of it in my head, solve all of it at once, be everywhere, fix everything. And I can't. I'm not built for that. God is. I'm not.
+
+When I stop and pray and ask what the actual priority is, a lot of the time what I'm really doing is admitting I can't do it all. I'm admitting I need help. I'm admitting I need wisdom I don't have. And that's okay. That's actually how it's supposed to work. He's not asking me to carry the whole world. He's asking me to faithfully execute on what's actually in front of me, right now. To do the next right thing. To trust him with the rest.
+
+Prioritize and execute isn't just a tactical tool. It's a theological statement. It's saying I am finite. I am limited. I can only do one thing at a time. And that's okay. That's how I was made.
+
+So here's what I want you to carry into tomorrow. Sometime in the next twenty-four hours, you're going to get hit with more than one thing at once. Maybe it's small, maybe it's big. But you're going to feel that pull to try to solve all of it simultaneously. And I want you to stop. I want you to take thirty seconds and ask yourself: what is the actual highest priority right now? Not what's loudest. Not what's easiest. Not what you feel like doing. What actually matters most?
+
+And then do that one thing. Execute on it. Don't halfdo it while you're thinking about the other things. Fully do it. And then move to the next.
+
+You'll be surprised how much more you actually accomplish. And you'll be surprised how much lighter you feel.
+
+Alright. That's it for tonight. I'll talk to you tomorrow.
