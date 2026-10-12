@@ -48,5 +48,15 @@
     "file_size_bytes": 6414573,
     "duration_seconds": 1603,
     "mp3_filename": "ep005-apprentice.mp3"
+  },
+  {
+    "guid": "https://heberhaws88.github.io/Extreme-Ownership/extreme-ownership-wired/episodes/ep006-journeyman",
+    "title": "Ep. 006 — No Bad Teams, Only Bad Leaders (Journeyman)",
+    "description": "This week's Extreme Ownership principle applied to both Horsepower Electric and Wells Cutting Edge, through the Journeyman perspective.",
+    "pub_date": "2026-10-12T20:10:24.827360+00:00",
+    "audio_url": "https://heberhaws88.github.io/Extreme-Ownership/extreme-ownership-wired/episodes/ep006-journeyman.mp3",
+    "file_size_bytes": 7602285,
+    "duration_seconds": 1900,
+    "mp3_filename": "ep006-journeyman.mp3"
   }
 ]
