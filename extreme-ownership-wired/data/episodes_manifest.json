@@ -58,5 +58,15 @@
     "file_size_bytes": 7602285,
     "duration_seconds": 1900,
     "mp3_filename": "ep006-journeyman.mp3"
+  },
+  {
+    "guid": "https://heberhaws88.github.io/Extreme-Ownership/extreme-ownership-wired/episodes/ep007-lead",
+    "title": "Ep. 007 — No Bad Teams, Only Bad Leaders (Lead)",
+    "description": "This week's Extreme Ownership principle applied to both Horsepower Electric and Wells Cutting Edge, through the Lead perspective.",
+    "pub_date": "2026-10-19T17:22:04.862770+00:00",
+    "audio_url": "https://heberhaws88.github.io/Extreme-Ownership/extreme-ownership-wired/episodes/ep007-lead.mp3",
+    "file_size_bytes": 5713101,
+    "duration_seconds": 1428,
+    "mp3_filename": "ep007-lead.mp3"
   }
 ]
