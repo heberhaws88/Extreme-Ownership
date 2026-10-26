@@ -68,5 +68,15 @@
     "file_size_bytes": 5713101,
     "duration_seconds": 1428,
     "mp3_filename": "ep007-lead.mp3"
+  },
+  {
+    "guid": "https://heberhaws88.github.io/Extreme-Ownership/extreme-ownership-wired/episodes/ep008-foreman",
+    "title": "Ep. 008 — No Bad Teams, Only Bad Leaders (Foreman)",
+    "description": "This week's Extreme Ownership principle applied to both Horsepower Electric and Wells Cutting Edge, through the Foreman perspective.",
+    "pub_date": "2026-10-26T17:09:59.434850+00:00",
+    "audio_url": "https://heberhaws88.github.io/Extreme-Ownership/extreme-ownership-wired/episodes/ep008-foreman.mp3",
+    "file_size_bytes": 6399405,
+    "duration_seconds": 1599,
+    "mp3_filename": "ep008-foreman.mp3"
   }
 ]
