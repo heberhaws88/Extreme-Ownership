@@ -78,5 +78,15 @@
     "file_size_bytes": 6399405,
     "duration_seconds": 1599,
     "mp3_filename": "ep008-foreman.mp3"
+  },
+  {
+    "guid": "https://heberhaws88.github.io/Extreme-Ownership/extreme-ownership-wired/episodes/ep009-apprentice",
+    "title": "Ep. 009 — Believe (Apprentice)",
+    "description": "This week's Extreme Ownership principle applied to both Horsepower Electric and Wells Cutting Edge, through the Apprentice perspective.",
+    "pub_date": "2026-11-02T20:41:34.081280+00:00",
+    "audio_url": "https://heberhaws88.github.io/Extreme-Ownership/extreme-ownership-wired/episodes/ep009-apprentice.mp3",
+    "file_size_bytes": 6426285,
+    "duration_seconds": 1606,
+    "mp3_filename": "ep009-apprentice.mp3"
   }
 ]
